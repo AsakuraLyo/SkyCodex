@@ -13,7 +13,16 @@
 4. 打开 PCL，用微软账号重新登录，启动「天空开拓者 SkyExplorer 0.2demo」。Java 运行时 PCL 会自动下载。
 5. 在 Claude 里把工作目录设为 `E:\MC`，告诉它「继续 SkyCodex 项目」，它会读 `HANDOFF.md` 和记忆笔记接上。
 
-## E 盘也没了：从 GitHub 重建
+## E 盘也格式化了：最快的办法
+
+1. 装 PCL，用整合包「天空开拓者 SkyExplorer 0.2」重新装好游戏，进一次服务器确认能玩。
+2. 打开 https://github.com/AsakuraLyo/SkyCodex/releases ，下载 `SkyCodex-0.1.0-beta.2.zip` 解压。
+   - `mods\` 里两个 jar 复制进整合包的 `mods` 文件夹；
+   - 运行里面的 `01-install.cmd` 装好桥接（需要先装 Node 22），`02-check.cmd` 检查。
+3. 恢复 Claude 记忆（见上面第 3 步），在 Claude 里说「继续 SkyCodex 项目」。
+4. 想继续改模组时再克隆源码（下一节）。
+
+## E 盘也没了：从 GitHub 重建源码
 
 ```powershell
 git clone https://github.com/<你的账号>/SkyCodex.git E:\MC\dev\SkyCodex-0.1.0-beta.2\source
