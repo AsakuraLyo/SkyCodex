@@ -27,7 +27,7 @@ await copy('bridge');
 await copy('blueprints');
 await copy('third_party');
 // Complete development workspace (README: source/, gradlew build; Windows开发指南.md).
-const SKIP = new Set(['build', '.gradle', 'dist', 'run', 'run-modpack', 'memory', 'surveys','smoke-report.json', 'game-dir.json', 'codex-config.toml', 'smoke-test.json']);
+const SKIP = new Set(['.git', 'build', '.gradle', 'dist', 'run', 'run-modpack', 'memory', 'surveys','smoke-report.json', 'game-dir.json', 'codex-config.toml', 'smoke-test.json']);
 const keep = src => !SKIP.has(path.basename(src)) && path.basename(src) !== '.DS_Store';
 for (const entry of await readdir(root)) if (keep(entry)) await cp(path.join(root, entry), path.join(out, 'source', entry), {recursive: true, filter: keep});
 
