@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-24T07:05:16.039Z",
+  "platform": "win32",
+  "passed": 12,
+  "total": 12,
+  "results": [
+    {
+      "name": "mc_status 字段完整",
+      "ok": true,
+      "detail": "version 0.1.0-beta.2 at {\"x\":-32,\"y\":609,\"z\":-518}"
+    },
+    {
+      "name": "mc_screenshot 缩放",
+      "ok": true,
+      "detail": "640px, 274051 bytes"
+    },
+    {
+      "name": "mc_recipes 查询",
+      "ok": true,
+      "detail": "2 recipes"
+    },
+    {
+      "name": "2×2 合成：橡木原木 → 木板",
+      "ok": true,
+      "detail": "Crafting output verified and collected"
+    },
+    {
+      "name": "2×2 合成：工作台、木棍",
+      "ok": true,
+      "detail": "ok"
+    },
+    {
+      "name": "mc_place 放置工作台",
+      "ok": true,
+      "detail": "Block placed and verified"
+    },
+    {
+      "name": "3×3 合成：木镐（自动开关工作台）",
+      "ok": true,
+      "detail": "pickaxe crafted, table closed"
+    },
+    {
+      "name": "mc_break 挖回工作台并拾取",
+      "ok": true,
+      "detail": "picked up"
+    },
+    {
+      "name": "mc_collect 采集暴露的原木（多种 ID）",
+      "ok": true,
+      "detail": "logs 5 -> 10"
+    },
+    {
+      "name": "mc_move 寻路 + 无路时快速失败",
+      "ok": true,
+      "detail": "unreachable target failed after 15s: No walkable path found (move never digs or bridges). Pick a closer or different target"
+    },
+    {
+      "name": "mc_eat 进食（饥饿时任务拒绝启动）",
+      "ok": true,
+      "detail": "food 2 -> 7"
+    },
+    {
+      "name": "蓝图施工：楼梯朝向 + 玻璃板/栅栏连接 + 圆石不被当脚手架",
+      "ok": true,
+      "detail": "All blueprint block states verified; cobblestone left 0"
+    }
+  ]
+}

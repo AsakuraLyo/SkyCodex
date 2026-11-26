@@ -1,0 +1,19 @@
+[
+  {"x": 70, "y": 72, "z": 496, "item": "create:cogwheel", "properties": {"axis": "y"}},
+  {"x": 71, "y": 72, "z": 496, "item": "create:cogwheel", "properties": {"axis": "y"}},
+  {"x": 72, "y": 72, "z": 496, "item": "create:cogwheel", "properties": {"axis": "y"}},
+  {"x": 70, "y": 69, "z": 497, "item": "create:blaze_burner", "properties": {"facing": "north"}},
+  {"x": 72, "y": 69, "z": 497, "item": "create:andesite_casing"},
+  {"x": 70, "y": 69, "z": 499, "item": "create:andesite_casing"},
+  {"x": 72, "y": 69, "z": 499, "item": "create:andesite_casing"},
+  {"x": 70, "y": 70, "z": 497, "item": "create:basin", "properties": {"facing": "down"}},
+  {"x": 72, "y": 70, "z": 497, "item": "create:basin", "properties": {"facing": "down"}},
+  {"x": 70, "y": 70, "z": 499, "item": "quark:oak_chest", "properties": {"facing": "north"}},
+  {"x": 72, "y": 70, "z": 499, "item": "quark:oak_chest", "properties": {"facing": "north"}},
+  {"x": 70, "y": 70, "z": 498, "item": "create:andesite_funnel", "properties": {"facing": "north"}},
+  {"x": 72, "y": 70, "z": 498, "item": "create:andesite_funnel", "properties": {"facing": "north"}},
+  {"x": 69, "y": 70, "z": 497, "item": "minecraft:hopper", "properties": {"facing": "east"}},
+  {"x": 69, "y": 71, "z": 497, "item": "quark:oak_chest", "properties": {"facing": "north"}},
+  {"x": 73, "y": 70, "z": 497, "item": "minecraft:hopper", "properties": {"facing": "west"}},
+  {"x": 73, "y": 71, "z": 497, "item": "minecraft:hopper", "properties": {"facing": "down"}}
+]

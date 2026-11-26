@@ -1,0 +1,1 @@
+[{"tool":"mc_craft","args":{"recipe":"minecraft:hopper","times":1},"expect":{"item":"minecraft:hopper","at_least":3}}]

@@ -1,0 +1,2575 @@
+{
+ "name": "Timber cottage 9x7",
+ "notes": "示例设计：石砌地基、橡木框架、白桦木板墙、玻璃窗、深色橡木双坡屋顶。门洞留空（门是方块实体以外的特殊方块，beta 版不放门）。",
+ "blocks": [
+  {
+   "x": 1,
+   "y": 0,
+   "z": 1,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 2,
+   "y": 0,
+   "z": 1,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 3,
+   "y": 0,
+   "z": 1,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 4,
+   "y": 0,
+   "z": 1,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 1,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 6,
+   "y": 0,
+   "z": 1,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 7,
+   "y": 0,
+   "z": 1,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 8,
+   "y": 0,
+   "z": 1,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 9,
+   "y": 0,
+   "z": 1,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 1,
+   "y": 0,
+   "z": 2,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 2,
+   "y": 0,
+   "z": 2,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 3,
+   "y": 0,
+   "z": 2,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 4,
+   "y": 0,
+   "z": 2,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 2,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 6,
+   "y": 0,
+   "z": 2,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 7,
+   "y": 0,
+   "z": 2,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 8,
+   "y": 0,
+   "z": 2,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 9,
+   "y": 0,
+   "z": 2,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 1,
+   "y": 0,
+   "z": 3,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 2,
+   "y": 0,
+   "z": 3,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 3,
+   "y": 0,
+   "z": 3,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 4,
+   "y": 0,
+   "z": 3,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 3,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 6,
+   "y": 0,
+   "z": 3,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 7,
+   "y": 0,
+   "z": 3,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 8,
+   "y": 0,
+   "z": 3,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 9,
+   "y": 0,
+   "z": 3,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 1,
+   "y": 0,
+   "z": 4,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 2,
+   "y": 0,
+   "z": 4,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 3,
+   "y": 0,
+   "z": 4,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 4,
+   "y": 0,
+   "z": 4,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 4,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 6,
+   "y": 0,
+   "z": 4,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 7,
+   "y": 0,
+   "z": 4,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 8,
+   "y": 0,
+   "z": 4,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 9,
+   "y": 0,
+   "z": 4,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 1,
+   "y": 0,
+   "z": 5,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 2,
+   "y": 0,
+   "z": 5,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 3,
+   "y": 0,
+   "z": 5,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 4,
+   "y": 0,
+   "z": 5,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 5,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 6,
+   "y": 0,
+   "z": 5,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 7,
+   "y": 0,
+   "z": 5,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 8,
+   "y": 0,
+   "z": 5,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 9,
+   "y": 0,
+   "z": 5,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 1,
+   "y": 0,
+   "z": 6,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 2,
+   "y": 0,
+   "z": 6,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 3,
+   "y": 0,
+   "z": 6,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 4,
+   "y": 0,
+   "z": 6,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 6,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 6,
+   "y": 0,
+   "z": 6,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 7,
+   "y": 0,
+   "z": 6,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 8,
+   "y": 0,
+   "z": 6,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 9,
+   "y": 0,
+   "z": 6,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 1,
+   "y": 0,
+   "z": 7,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 2,
+   "y": 0,
+   "z": 7,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 3,
+   "y": 0,
+   "z": 7,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 4,
+   "y": 0,
+   "z": 7,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 5,
+   "y": 0,
+   "z": 7,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 6,
+   "y": 0,
+   "z": 7,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 7,
+   "y": 0,
+   "z": 7,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 8,
+   "y": 0,
+   "z": 7,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 9,
+   "y": 0,
+   "z": 7,
+   "block": "minecraft:cobblestone"
+  },
+  {
+   "x": 1,
+   "y": 1,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "y"
+   }
+  },
+  {
+   "x": 2,
+   "y": 1,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 3,
+   "y": 1,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 4,
+   "y": 1,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 6,
+   "y": 1,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 7,
+   "y": 1,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 8,
+   "y": 1,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 9,
+   "y": 1,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "y"
+   }
+  },
+  {
+   "x": 1,
+   "y": 1,
+   "z": 2,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 2,
+   "y": 1,
+   "z": 2,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 3,
+   "y": 1,
+   "z": 2,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 4,
+   "y": 1,
+   "z": 2,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 5,
+   "y": 1,
+   "z": 2,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 6,
+   "y": 1,
+   "z": 2,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 7,
+   "y": 1,
+   "z": 2,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 8,
+   "y": 1,
+   "z": 2,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 9,
+   "y": 1,
+   "z": 2,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 1,
+   "y": 1,
+   "z": 3,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 2,
+   "y": 1,
+   "z": 3,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 3,
+   "y": 1,
+   "z": 3,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 4,
+   "y": 1,
+   "z": 3,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 5,
+   "y": 1,
+   "z": 3,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 6,
+   "y": 1,
+   "z": 3,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 7,
+   "y": 1,
+   "z": 3,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 8,
+   "y": 1,
+   "z": 3,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 9,
+   "y": 1,
+   "z": 3,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 1,
+   "y": 1,
+   "z": 4,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 2,
+   "y": 1,
+   "z": 4,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 3,
+   "y": 1,
+   "z": 4,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 4,
+   "y": 1,
+   "z": 4,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 5,
+   "y": 1,
+   "z": 4,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 6,
+   "y": 1,
+   "z": 4,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 7,
+   "y": 1,
+   "z": 4,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 8,
+   "y": 1,
+   "z": 4,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 9,
+   "y": 1,
+   "z": 4,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 1,
+   "y": 1,
+   "z": 5,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 2,
+   "y": 1,
+   "z": 5,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 3,
+   "y": 1,
+   "z": 5,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 4,
+   "y": 1,
+   "z": 5,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 5,
+   "y": 1,
+   "z": 5,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 6,
+   "y": 1,
+   "z": 5,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 7,
+   "y": 1,
+   "z": 5,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 8,
+   "y": 1,
+   "z": 5,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 9,
+   "y": 1,
+   "z": 5,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 1,
+   "y": 1,
+   "z": 6,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 2,
+   "y": 1,
+   "z": 6,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 3,
+   "y": 1,
+   "z": 6,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 4,
+   "y": 1,
+   "z": 6,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 5,
+   "y": 1,
+   "z": 6,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 6,
+   "y": 1,
+   "z": 6,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 7,
+   "y": 1,
+   "z": 6,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 8,
+   "y": 1,
+   "z": 6,
+   "block": "minecraft:spruce_planks"
+  },
+  {
+   "x": 9,
+   "y": 1,
+   "z": 6,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 1,
+   "y": 1,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "y"
+   }
+  },
+  {
+   "x": 2,
+   "y": 1,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 3,
+   "y": 1,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 4,
+   "y": 1,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 5,
+   "y": 1,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 6,
+   "y": 1,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 7,
+   "y": 1,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 8,
+   "y": 1,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 9,
+   "y": 1,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "y"
+   }
+  },
+  {
+   "x": 1,
+   "y": 2,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "y"
+   }
+  },
+  {
+   "x": 2,
+   "y": 2,
+   "z": 1,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 3,
+   "y": 2,
+   "z": 1,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 4,
+   "y": 2,
+   "z": 1,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 6,
+   "y": 2,
+   "z": 1,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 7,
+   "y": 2,
+   "z": 1,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 8,
+   "y": 2,
+   "z": 1,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 9,
+   "y": 2,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "y"
+   }
+  },
+  {
+   "x": 1,
+   "y": 2,
+   "z": 2,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 9,
+   "y": 2,
+   "z": 2,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 1,
+   "y": 2,
+   "z": 3,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 9,
+   "y": 2,
+   "z": 3,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 1,
+   "y": 2,
+   "z": 4,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 9,
+   "y": 2,
+   "z": 4,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 1,
+   "y": 2,
+   "z": 5,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 9,
+   "y": 2,
+   "z": 5,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 1,
+   "y": 2,
+   "z": 6,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 9,
+   "y": 2,
+   "z": 6,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 1,
+   "y": 2,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "y"
+   }
+  },
+  {
+   "x": 2,
+   "y": 2,
+   "z": 7,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 3,
+   "y": 2,
+   "z": 7,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 4,
+   "y": 2,
+   "z": 7,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 5,
+   "y": 2,
+   "z": 7,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 6,
+   "y": 2,
+   "z": 7,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 7,
+   "y": 2,
+   "z": 7,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 8,
+   "y": 2,
+   "z": 7,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 9,
+   "y": 2,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "y"
+   }
+  },
+  {
+   "x": 1,
+   "y": 3,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "y"
+   }
+  },
+  {
+   "x": 2,
+   "y": 3,
+   "z": 1,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 3,
+   "y": 3,
+   "z": 1,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 4,
+   "y": 3,
+   "z": 1,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 6,
+   "y": 3,
+   "z": 1,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 7,
+   "y": 3,
+   "z": 1,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 8,
+   "y": 3,
+   "z": 1,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 9,
+   "y": 3,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "y"
+   }
+  },
+  {
+   "x": 1,
+   "y": 3,
+   "z": 2,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 9,
+   "y": 3,
+   "z": 2,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 1,
+   "y": 3,
+   "z": 3,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 9,
+   "y": 3,
+   "z": 3,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 1,
+   "y": 3,
+   "z": 4,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 9,
+   "y": 3,
+   "z": 4,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 1,
+   "y": 3,
+   "z": 5,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 9,
+   "y": 3,
+   "z": 5,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 1,
+   "y": 3,
+   "z": 6,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 9,
+   "y": 3,
+   "z": 6,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 1,
+   "y": 3,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "y"
+   }
+  },
+  {
+   "x": 2,
+   "y": 3,
+   "z": 7,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 3,
+   "y": 3,
+   "z": 7,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 4,
+   "y": 3,
+   "z": 7,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 5,
+   "y": 3,
+   "z": 7,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 6,
+   "y": 3,
+   "z": 7,
+   "block": "minecraft:glass_pane"
+  },
+  {
+   "x": 7,
+   "y": 3,
+   "z": 7,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 8,
+   "y": 3,
+   "z": 7,
+   "block": "minecraft:birch_planks"
+  },
+  {
+   "x": 9,
+   "y": 3,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "y"
+   }
+  },
+  {
+   "x": 1,
+   "y": 4,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "y"
+   }
+  },
+  {
+   "x": 2,
+   "y": 4,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 3,
+   "y": 4,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 4,
+   "y": 4,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 5,
+   "y": 4,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 6,
+   "y": 4,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 7,
+   "y": 4,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 8,
+   "y": 4,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 9,
+   "y": 4,
+   "z": 1,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "y"
+   }
+  },
+  {
+   "x": 1,
+   "y": 4,
+   "z": 2,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 9,
+   "y": 4,
+   "z": 2,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 1,
+   "y": 4,
+   "z": 3,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 9,
+   "y": 4,
+   "z": 3,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 1,
+   "y": 4,
+   "z": 4,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 9,
+   "y": 4,
+   "z": 4,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 1,
+   "y": 4,
+   "z": 5,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 9,
+   "y": 4,
+   "z": 5,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 1,
+   "y": 4,
+   "z": 6,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 9,
+   "y": 4,
+   "z": 6,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "z"
+   }
+  },
+  {
+   "x": 1,
+   "y": 4,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "y"
+   }
+  },
+  {
+   "x": 2,
+   "y": 4,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 3,
+   "y": 4,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 4,
+   "y": 4,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 5,
+   "y": 4,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 6,
+   "y": 4,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 7,
+   "y": 4,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 8,
+   "y": 4,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "x"
+   }
+  },
+  {
+   "x": 9,
+   "y": 4,
+   "z": 7,
+   "block": "minecraft:oak_log",
+   "properties": {
+    "axis": "y"
+   }
+  },
+  {
+   "x": 0,
+   "y": 5,
+   "z": 0,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 1,
+   "y": 5,
+   "z": 0,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 2,
+   "y": 5,
+   "z": 0,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 3,
+   "y": 5,
+   "z": 0,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 4,
+   "y": 5,
+   "z": 0,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 5,
+   "y": 5,
+   "z": 0,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 6,
+   "y": 5,
+   "z": 0,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 7,
+   "y": 5,
+   "z": 0,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 8,
+   "y": 5,
+   "z": 0,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 9,
+   "y": 5,
+   "z": 0,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 10,
+   "y": 5,
+   "z": 0,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 1,
+   "y": 5,
+   "z": 1,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 9,
+   "y": 5,
+   "z": 1,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 1,
+   "y": 5,
+   "z": 2,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 9,
+   "y": 5,
+   "z": 2,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 1,
+   "y": 5,
+   "z": 3,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 9,
+   "y": 5,
+   "z": 3,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 1,
+   "y": 5,
+   "z": 4,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 9,
+   "y": 5,
+   "z": 4,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 1,
+   "y": 5,
+   "z": 5,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 9,
+   "y": 5,
+   "z": 5,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 1,
+   "y": 5,
+   "z": 6,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 9,
+   "y": 5,
+   "z": 6,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 1,
+   "y": 5,
+   "z": 7,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 9,
+   "y": 5,
+   "z": 7,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 0,
+   "y": 5,
+   "z": 8,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 1,
+   "y": 5,
+   "z": 8,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 2,
+   "y": 5,
+   "z": 8,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 3,
+   "y": 5,
+   "z": 8,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 4,
+   "y": 5,
+   "z": 8,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 5,
+   "y": 5,
+   "z": 8,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 6,
+   "y": 5,
+   "z": 8,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 7,
+   "y": 5,
+   "z": 8,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 8,
+   "y": 5,
+   "z": 8,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 9,
+   "y": 5,
+   "z": 8,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 10,
+   "y": 5,
+   "z": 8,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 0,
+   "y": 6,
+   "z": 1,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 1,
+   "y": 6,
+   "z": 1,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 2,
+   "y": 6,
+   "z": 1,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 3,
+   "y": 6,
+   "z": 1,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 4,
+   "y": 6,
+   "z": 1,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 5,
+   "y": 6,
+   "z": 1,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 6,
+   "y": 6,
+   "z": 1,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 7,
+   "y": 6,
+   "z": 1,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 8,
+   "y": 6,
+   "z": 1,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 9,
+   "y": 6,
+   "z": 1,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 10,
+   "y": 6,
+   "z": 1,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 1,
+   "y": 6,
+   "z": 2,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 9,
+   "y": 6,
+   "z": 2,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 1,
+   "y": 6,
+   "z": 3,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 9,
+   "y": 6,
+   "z": 3,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 1,
+   "y": 6,
+   "z": 4,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 9,
+   "y": 6,
+   "z": 4,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 1,
+   "y": 6,
+   "z": 5,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 9,
+   "y": 6,
+   "z": 5,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 1,
+   "y": 6,
+   "z": 6,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 9,
+   "y": 6,
+   "z": 6,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 0,
+   "y": 6,
+   "z": 7,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 1,
+   "y": 6,
+   "z": 7,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 2,
+   "y": 6,
+   "z": 7,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 3,
+   "y": 6,
+   "z": 7,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 4,
+   "y": 6,
+   "z": 7,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 5,
+   "y": 6,
+   "z": 7,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 6,
+   "y": 6,
+   "z": 7,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 7,
+   "y": 6,
+   "z": 7,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 8,
+   "y": 6,
+   "z": 7,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 9,
+   "y": 6,
+   "z": 7,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 10,
+   "y": 6,
+   "z": 7,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 0,
+   "y": 7,
+   "z": 2,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 1,
+   "y": 7,
+   "z": 2,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 2,
+   "y": 7,
+   "z": 2,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 3,
+   "y": 7,
+   "z": 2,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 4,
+   "y": 7,
+   "z": 2,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 5,
+   "y": 7,
+   "z": 2,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 6,
+   "y": 7,
+   "z": 2,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 7,
+   "y": 7,
+   "z": 2,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 8,
+   "y": 7,
+   "z": 2,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 9,
+   "y": 7,
+   "z": 2,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 10,
+   "y": 7,
+   "z": 2,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 1,
+   "y": 7,
+   "z": 3,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 9,
+   "y": 7,
+   "z": 3,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 1,
+   "y": 7,
+   "z": 4,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 9,
+   "y": 7,
+   "z": 4,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 1,
+   "y": 7,
+   "z": 5,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 9,
+   "y": 7,
+   "z": 5,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 0,
+   "y": 7,
+   "z": 6,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 1,
+   "y": 7,
+   "z": 6,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 2,
+   "y": 7,
+   "z": 6,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 3,
+   "y": 7,
+   "z": 6,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 4,
+   "y": 7,
+   "z": 6,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 5,
+   "y": 7,
+   "z": 6,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 6,
+   "y": 7,
+   "z": 6,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 7,
+   "y": 7,
+   "z": 6,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 8,
+   "y": 7,
+   "z": 6,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 9,
+   "y": 7,
+   "z": 6,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 10,
+   "y": 7,
+   "z": 6,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 0,
+   "y": 8,
+   "z": 3,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 1,
+   "y": 8,
+   "z": 3,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 2,
+   "y": 8,
+   "z": 3,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 3,
+   "y": 8,
+   "z": 3,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 4,
+   "y": 8,
+   "z": 3,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 5,
+   "y": 8,
+   "z": 3,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 6,
+   "y": 8,
+   "z": 3,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 7,
+   "y": 8,
+   "z": 3,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 8,
+   "y": 8,
+   "z": 3,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 9,
+   "y": 8,
+   "z": 3,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 10,
+   "y": 8,
+   "z": 3,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "south",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 1,
+   "y": 8,
+   "z": 4,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 9,
+   "y": 8,
+   "z": 4,
+   "block": "minecraft:oak_planks"
+  },
+  {
+   "x": 0,
+   "y": 8,
+   "z": 5,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 1,
+   "y": 8,
+   "z": 5,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 2,
+   "y": 8,
+   "z": 5,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 3,
+   "y": 8,
+   "z": 5,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 4,
+   "y": 8,
+   "z": 5,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 5,
+   "y": 8,
+   "z": 5,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 6,
+   "y": 8,
+   "z": 5,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 7,
+   "y": 8,
+   "z": 5,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 8,
+   "y": 8,
+   "z": 5,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 9,
+   "y": 8,
+   "z": 5,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 10,
+   "y": 8,
+   "z": 5,
+   "block": "minecraft:dark_oak_stairs",
+   "properties": {
+    "facing": "north",
+    "half": "bottom"
+   }
+  },
+  {
+   "x": 0,
+   "y": 9,
+   "z": 4,
+   "block": "minecraft:dark_oak_slab"
+  },
+  {
+   "x": 1,
+   "y": 9,
+   "z": 4,
+   "block": "minecraft:dark_oak_slab"
+  },
+  {
+   "x": 2,
+   "y": 9,
+   "z": 4,
+   "block": "minecraft:dark_oak_slab"
+  },
+  {
+   "x": 3,
+   "y": 9,
+   "z": 4,
+   "block": "minecraft:dark_oak_slab"
+  },
+  {
+   "x": 4,
+   "y": 9,
+   "z": 4,
+   "block": "minecraft:dark_oak_slab"
+  },
+  {
+   "x": 5,
+   "y": 9,
+   "z": 4,
+   "block": "minecraft:dark_oak_slab"
+  },
+  {
+   "x": 6,
+   "y": 9,
+   "z": 4,
+   "block": "minecraft:dark_oak_slab"
+  },
+  {
+   "x": 7,
+   "y": 9,
+   "z": 4,
+   "block": "minecraft:dark_oak_slab"
+  },
+  {
+   "x": 8,
+   "y": 9,
+   "z": 4,
+   "block": "minecraft:dark_oak_slab"
+  },
+  {
+   "x": 9,
+   "y": 9,
+   "z": 4,
+   "block": "minecraft:dark_oak_slab"
+  },
+  {
+   "x": 10,
+   "y": 9,
+   "z": 4,
+   "block": "minecraft:dark_oak_slab"
+  }
+ ]
+}

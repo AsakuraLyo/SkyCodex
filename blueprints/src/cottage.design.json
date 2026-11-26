@@ -1,0 +1,44 @@
+{
+  "name": "Timber cottage 9x7",
+  "notes": "示例设计：石砌地基、橡木框架、白桦木板墙、玻璃窗、深色橡木双坡屋顶。门洞留空（beta 版蓝图不支持门，可完工后手动安装）。",
+  "palette": {
+    "base": "minecraft:cobblestone",
+    "floor": "minecraft:spruce_planks",
+    "post": "minecraft:oak_log",
+    "wall": "minecraft:birch_planks",
+    "window": "minecraft:glass_pane",
+    "roof": "minecraft:dark_oak_stairs",
+    "ridge": "minecraft:dark_oak_slab",
+    "gable": "minecraft:oak_planks"
+  },
+  "ops": [
+    {"op": "fill",  "from": [1, 0, 1], "to": [9, 0, 7], "block": "base"},
+    {"op": "fill",  "from": [2, 1, 2], "to": [8, 1, 6], "block": "floor"},
+    {"op": "walls", "from": [1, 1, 1], "to": [9, 4, 7], "block": "wall"},
+    {"op": "frame", "from": [1, 1, 1], "to": [9, 4, 7], "block": "post"},
+    {"op": "facade", "plane": "xy", "at": [1, 1, 1], "key": {"W": "window"},
+     "rows": [
+       ".........",
+       "..WW.WW..",
+       "..WW.WW..",
+       "....-...."
+     ]},
+    {"op": "clear", "from": [5, 2, 1], "to": [5, 3, 1]},
+    {"op": "facade", "plane": "zy", "at": [9, 1, 1], "key": {"W": "window"},
+     "rows": [
+       ".......",
+       "..WWW..",
+       "..WWW..",
+       "......."
+     ]},
+    {"op": "facade", "plane": "xy", "at": [1, 1, 7], "key": {"W": "window"},
+     "rows": [
+       ".........",
+       "...WWW...",
+       "...WWW...",
+       "........."
+     ]},
+    {"op": "roof", "style": "gable", "ridge": "x", "from": [0, 5, 0], "to": [10, 5, 8],
+     "block": "roof", "cap": "ridge", "gable": "gable", "gable_inset": 1}
+  ]
+}

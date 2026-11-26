@@ -1,0 +1,6 @@
+[
+  {"tool": "mc_move", "args": {"x": 61, "y": 69, "z": 495, "radius": 1}},
+  {"tool": "mc_craft", "args": {"recipe": "create:crafting/kinetics/shaft", "times": 2}, "expect": {"item": "create:shaft", "at_least": 15}},
+  {"tool": "mc_craft", "args": {"recipe": "quark:building/crafting/chests/mixed_chest", "times": 6}, "expect": {"item": "minecraft:chest", "at_least": 6}},
+  {"tool": "mc_craft", "args": {"recipe": "minecraft:hopper", "times": 2}, "expect": {"item": "minecraft:hopper", "at_least": 2}}
+]

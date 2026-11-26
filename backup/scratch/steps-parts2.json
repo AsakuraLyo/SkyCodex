@@ -1,0 +1,4 @@
+[
+  {"tool": "mc_craft", "args": {"recipe": "quark:building/crafting/chests/oak_chest", "times": 6}, "expect": {"item": "quark:oak_chest", "at_least": 6}},
+  {"tool": "mc_craft", "args": {"recipe": "minecraft:hopper", "times": 2}, "expect": {"item": "minecraft:hopper", "at_least": 2}}
+]

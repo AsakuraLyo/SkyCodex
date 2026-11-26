@@ -1,0 +1,7 @@
+[
+  {"x": 68, "y": 69, "z": 495, "item": "create:andesite_casing"},
+  {"x": 68, "y": 70, "z": 496, "item": "create:andesite_casing"},
+  {"x": 70, "y": 72, "z": 496, "item": "create:cogwheel", "properties": {"axis": "y"}},
+  {"x": 71, "y": 72, "z": 496, "item": "create:cogwheel", "properties": {"axis": "y"}},
+  {"x": 72, "y": 72, "z": 496, "item": "create:cogwheel", "properties": {"axis": "y"}}
+]

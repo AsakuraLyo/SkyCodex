@@ -1,0 +1,1724 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "e78c8c46",
+      "category": "production_line",
+      "created": "2026-11-24T08:55:47.967Z",
+      "name": "主基地综合工厂",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 59,
+        "y": 66,
+        "z": 469
+      },
+      "to": {
+        "x": 82,
+        "y": 74,
+        "z": 492
+      },
+      "blocks": {
+        "create:andesite_encased_shaft": 1,
+        "create:basin": 2,
+        "create:belt": 6,
+        "create:blaze_burner": 1,
+        "create:brass_belt_funnel": 3,
+        "create:brass_funnel": 2,
+        "create:chain_conveyor": 2,
+        "create:chute": 16,
+        "create:cogwheel": 9,
+        "create:crushing_wheel": 2,
+        "create:crushing_wheel_controller": 1,
+        "create:deployer": 4,
+        "create:depot": 3,
+        "create:encased_fan": 1,
+        "create:fluid_pipe": 9,
+        "create:fluid_tank": 2,
+        "create:gearbox": 17,
+        "create:item_vault": 81,
+        "create:large_cogwheel": 1,
+        "create:mechanical_crafter": 51,
+        "create:mechanical_mixer": 1,
+        "create:mechanical_press": 1,
+        "create:mechanical_pump": 3,
+        "create:mechanical_saw": 1,
+        "create:package_frogport": 2,
+        "create:packager": 3,
+        "create:rotation_speed_controller": 1,
+        "create:shaft": 19,
+        "create:spout": 1,
+        "create:stock_link": 1,
+        "create:stock_ticker": 1,
+        "create:weighted_ejector": 1,
+        "createaddition:alternator": 1,
+        "createaddition:large_connector": 4,
+        "createaddition:modular_accumulator": 8,
+        "createaddition:rolling_mill": 2,
+        "createaddition:tesla_coil": 1,
+        "fxntstorage:smart_passer_block": 5,
+        "laowu:cat_carrier": 1,
+        "laowu:cat_engine": 5,
+        "minecraft:barrel": 15,
+        "minecraft:campfire": 1,
+        "minecraft:soul_campfire": 1,
+        "quark:acacia_chest": 8,
+        "quark:oak_chest": 2
+      },
+      "kinetics": "partly turning",
+      "auto_name": "item_vault×81 + mechanical_crafter×51 + barrel×15",
+      "updated": "2026-11-24T09:05:28.796Z",
+      "note": "81 物品保险库仓储 + 51 机械合成器阵列；粉碎轮/辊轧机/搅拌/辊压/锯/注液/烈焰人燃烧室加工；交流发电机+储能+特斯拉线圈发电；打包机/青蛙港/库存链接物流。部分在转"
+    },
+    {
+      "id": "bb9f2da1",
+      "category": "kitchen",
+      "created": "2026-11-24T08:55:47.967Z",
+      "name": "厨房/仓库区",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 127,
+        "y": 70,
+        "z": 558
+      },
+      "to": {
+        "x": 135,
+        "y": 73,
+        "z": 568
+      },
+      "blocks": {
+        "farmersdelight:skillet": 1,
+        "farmersdelight:stove": 1,
+        "minecraft:barrel": 7,
+        "minecraft:campfire": 11,
+        "minecraft:furnace": 2,
+        "quark:spruce_chest": 12
+      },
+      "auto_name": "spruce_chest×12 + campfire×11 + barrel×7",
+      "updated": "2026-11-24T09:05:00.198Z",
+      "note": "12 云杉木箱、营火、熔炉、平底锅、炉灶"
+    },
+    {
+      "id": "4160fc86",
+      "category": "railway",
+      "created": "2026-11-24T08:55:47.967Z",
+      "name": "地铁（施工中）轨道段 y58",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 105,
+        "y": 58,
+        "z": 401
+      },
+      "to": {
+        "x": 105,
+        "y": 59,
+        "z": 416
+      },
+      "blocks": {
+        "create:fake_track": 14,
+        "create:track": 2
+      },
+      "auto_name": "fake_track×14 + track×2",
+      "updated": "2026-11-24T09:07:02.797Z",
+      "note": "地下地铁，施工中；从电梯站下去"
+    },
+    {
+      "id": "cb2c258f",
+      "category": "logistics",
+      "created": "2026-11-24T08:55:47.967Z",
+      "name": "链式传送机/电梯井（基地北）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 88,
+        "y": 72,
+        "z": 448
+      },
+      "to": {
+        "x": 88,
+        "y": 76,
+        "z": 453
+      },
+      "blocks": {
+        "create:chain_conveyor": 1,
+        "create:elevator_pulley": 1,
+        "create:gearbox": 1,
+        "create:shaft": 7
+      },
+      "kinetics": "turning",
+      "auto_name": "chain_conveyor×1 + elevator_pulley×1",
+      "updated": "2026-11-24T09:07:11.604Z",
+      "note": "电梯滑轮 + 链式传送机，在转；电梯通往地下地铁（施工中）"
+    },
+    {
+      "id": "49c11781",
+      "category": "loot",
+      "created": "2026-11-24T08:55:47.967Z",
+      "name": "地下战利品点（y37，Lootr）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": -34,
+        "y": 36,
+        "z": 494
+      },
+      "to": {
+        "x": -30,
+        "y": 37,
+        "z": 498
+      },
+      "blocks": {
+        "lootr:lootr_barrel": 4,
+        "lootr:lootr_chest": 2,
+        "minecraft:campfire": 1,
+        "minecraft:furnace": 2
+      },
+      "auto_name": "lootr_barrel×4 + lootr_chest×2 + furnace×2",
+      "updated": "2026-11-24T08:57:04.548Z",
+      "note": "Lootr 战利品箱/桶 + 熔炉，可能是遗迹结构，不一定是自己的"
+    },
+    {
+      "id": "e8de208d",
+      "category": "power",
+      "created": "2026-11-24T08:55:47.967Z",
+      "name": "猫猫引擎动力站（东）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 153,
+        "y": 70,
+        "z": 536
+      },
+      "to": {
+        "x": 160,
+        "y": 74,
+        "z": 536
+      },
+      "blocks": {
+        "create:chain_conveyor": 1,
+        "create:cogwheel": 1,
+        "create:fluid_pipe": 6,
+        "create:gearbox": 1,
+        "create:mechanical_pump": 1,
+        "create:shaft": 3,
+        "laowu:cat_carrier": 1,
+        "laowu:cat_engine": 5
+      },
+      "kinetics": "turning",
+      "auto_name": "cat_engine×5 + chain_conveyor×1 + mechanical_pump×1",
+      "updated": "2026-11-24T09:05:00.198Z",
+      "note": "2 个猫猫引擎 + 流体管 + 链式传送机，在转"
+    },
+    {
+      "id": "a2250156",
+      "category": "kitchen",
+      "created": "2026-11-24T08:55:47.967Z",
+      "name": "营火区（西）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 25,
+        "y": 66,
+        "z": 485
+      },
+      "to": {
+        "x": 27,
+        "y": 70,
+        "z": 487
+      },
+      "blocks": {
+        "minecraft:campfire": 8
+      },
+      "auto_name": "campfire×8",
+      "updated": "2026-11-24T09:05:28.796Z",
+      "note": "8 营火（烹饪或装饰）"
+    },
+    {
+      "id": "9bf2b37e",
+      "category": "logistics",
+      "created": "2026-11-24T08:55:47.967Z",
+      "name": "链式传送机/电梯井（南）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 95,
+        "y": 70,
+        "z": 534
+      },
+      "to": {
+        "x": 95,
+        "y": 75,
+        "z": 536
+      },
+      "blocks": {
+        "create:chain_conveyor": 1,
+        "create:elevator_pulley": 1,
+        "create:gearbox": 2,
+        "create:shaft": 4
+      },
+      "kinetics": "turning",
+      "auto_name": "chain_conveyor×1 + elevator_pulley×1",
+      "updated": "2026-11-24T09:07:11.644Z",
+      "note": "电梯滑轮 + 链式传送机，在转；电梯通往地下地铁（施工中）"
+    },
+    {
+      "id": "93459391",
+      "category": "storage",
+      "created": "2026-11-24T08:55:47.967Z",
+      "name": "储物点（金合欢木箱+铁背包）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 58,
+        "y": 74,
+        "z": 449
+      },
+      "to": {
+        "x": 59,
+        "y": 75,
+        "z": 453
+      },
+      "blocks": {
+        "quark:acacia_chest": 6,
+        "sophisticatedbackpacks:iron_backpack": 1
+      },
+      "auto_name": "acacia_chest×6 + iron_backpack×1",
+      "updated": "2026-11-24T09:05:28.796Z",
+      "note": "6 金合欢木箱 + 铁背包"
+    },
+    {
+      "id": "e23c1e11",
+      "category": "storage",
+      "created": "2026-11-24T08:55:47.967Z",
+      "name": "储物点（橡木箱+熔炉）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 54,
+        "y": 70,
+        "z": 454
+      },
+      "to": {
+        "x": 57,
+        "y": 72,
+        "z": 456
+      },
+      "blocks": {
+        "minecraft:furnace": 2,
+        "quark:oak_chest": 4,
+        "sophisticatedbackpacks:copper_backpack": 1
+      },
+      "auto_name": "oak_chest×4 + furnace×2 + copper_backpack×1",
+      "updated": "2026-11-24T09:05:28.796Z",
+      "note": "4 橡木箱 + 2 熔炉 + 铜背包"
+    },
+    {
+      "id": "a5a393a5",
+      "category": "power",
+      "created": "2026-11-24T08:55:47.967Z",
+      "name": "大水车动力站",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 127,
+        "y": 70,
+        "z": 526
+      },
+      "to": {
+        "x": 127,
+        "y": 70,
+        "z": 532
+      },
+      "blocks": {
+        "create:encased_fan": 1,
+        "create:large_water_wheel": 5,
+        "create:shaft": 1
+      },
+      "kinetics": "turning",
+      "auto_name": "large_water_wheel×5",
+      "updated": "2026-11-24T09:05:28.796Z",
+      "note": "5 个大水车 + 鼓风机，在转"
+    },
+    {
+      "id": "70385b66",
+      "category": "logistics",
+      "created": "2026-11-24T08:55:47.967Z",
+      "name": "链式传送机（北，停转）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 111,
+        "y": 67,
+        "z": 409
+      },
+      "to": {
+        "x": 111,
+        "y": 72,
+        "z": 409
+      },
+      "blocks": {
+        "create:chain_conveyor": 1,
+        "create:shaft": 5
+      },
+      "kinetics": "not turning (no power or overstressed)",
+      "auto_name": "chain_conveyor×1",
+      "updated": "2026-11-24T09:03:40.398Z",
+      "note": "扫描时没在转：无动力或过载，需要检查"
+    },
+    {
+      "id": "7067b049",
+      "category": "kitchen",
+      "created": "2026-11-24T08:55:48.000Z",
+      "name": "厨房区·营火烹饪",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 119,
+        "y": 73,
+        "z": 564
+      },
+      "to": {
+        "x": 125,
+        "y": 75,
+        "z": 570
+      },
+      "blocks": {
+        "minecraft:barrel": 2,
+        "minecraft:campfire": 10
+      },
+      "auto_name": "campfire×10 + barrel×2",
+      "updated": "2026-11-24T09:05:00.198Z",
+      "note": "10 营火 + 木桶，紧邻厨房/仓库区"
+    },
+    {
+      "id": "737582e4",
+      "category": "kitchen",
+      "created": "2026-11-24T08:55:48.000Z",
+      "name": "厨房区·木桶仓",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 121,
+        "y": 70,
+        "z": 562
+      },
+      "to": {
+        "x": 126,
+        "y": 71,
+        "z": 564
+      },
+      "blocks": {
+        "minecraft:barrel": 5,
+        "minecraft:campfire": 1
+      },
+      "auto_name": "barrel×5 + campfire×1",
+      "updated": "2026-11-24T09:05:00.198Z",
+      "note": "5 木桶 + 营火，紧邻厨房/仓库区"
+    },
+    {
+      "id": "46556f85",
+      "category": "storage",
+      "created": "2026-11-24T08:55:48.000Z",
+      "name": "储物点（深色橡木/丛林木箱+熔炉）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 110,
+        "y": 70,
+        "z": 542
+      },
+      "to": {
+        "x": 112,
+        "y": 70,
+        "z": 544
+      },
+      "blocks": {
+        "minecraft:furnace": 1,
+        "quark:dark_oak_chest": 2,
+        "quark:jungle_chest": 2
+      },
+      "auto_name": "dark_oak_chest×2 + jungle_chest×2 + furnace×1",
+      "updated": "2026-11-24T09:05:28.796Z",
+      "note": ""
+    },
+    {
+      "id": "0ded5346",
+      "category": "storage",
+      "created": "2026-11-24T08:59:57.948Z",
+      "name": "oak_chest×4",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 51,
+        "y": 75,
+        "z": 449
+      },
+      "to": {
+        "x": 51,
+        "y": 75,
+        "z": 452
+      },
+      "blocks": {
+        "quark:oak_chest": 4
+      },
+      "auto_name": "oak_chest×4",
+      "updated": "2026-11-24T09:05:28.796Z"
+    },
+    {
+      "id": "de52a1b0",
+      "category": "waystone",
+      "created": "2026-11-24T08:59:57.948Z",
+      "name": "基地传送石碑",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "to": {
+        "x": 47,
+        "y": 70,
+        "z": 462
+      },
+      "blocks": {
+        "waystones:waystone": 2
+      },
+      "auto_name": "waystone×2",
+      "updated": "2026-11-24T09:06:42.298Z",
+      "note": "主基地西北侧的 2 个传送石碑，可用来传送"
+    },
+    {
+      "id": "594e78c0",
+      "category": "storage",
+      "created": "2026-11-24T08:59:57.948Z",
+      "name": "lootr_barrel×1 + blast_furnace×1",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 49,
+        "y": 31,
+        "z": 495
+      },
+      "to": {
+        "x": 49,
+        "y": 32,
+        "z": 495
+      },
+      "blocks": {
+        "lootr:lootr_barrel": 1,
+        "minecraft:blast_furnace": 1
+      },
+      "auto_name": "lootr_barrel×1 + blast_furnace×1",
+      "updated": "2026-11-24T08:59:57.948Z"
+    },
+    {
+      "id": "4a06d5ac",
+      "category": "railway",
+      "created": "2026-11-24T09:03:40.398Z",
+      "name": "地铁（施工中）轨道段·北 y58",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 105,
+        "y": 58,
+        "z": 348
+      },
+      "to": {
+        "x": 105,
+        "y": 59,
+        "z": 351
+      },
+      "blocks": {
+        "create:fake_track": 3,
+        "create:track": 1
+      },
+      "auto_name": "fake_track×3 + track×1",
+      "updated": "2026-11-24T09:07:02.848Z",
+      "note": "地下地铁，施工中；从电梯站下去"
+    },
+    {
+      "id": "e898be7b",
+      "category": "schematic",
+      "created": "2026-11-24T09:03:40.398Z",
+      "name": "蓝图桌（主基地）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 67,
+        "y": 69,
+        "z": 470
+      },
+      "to": {
+        "x": 67,
+        "y": 69,
+        "z": 472
+      },
+      "blocks": {
+        "create:schematic_table": 1,
+        "quark:oak_chest": 1
+      },
+      "auto_name": "schematic_table×1 + oak_chest×1",
+      "updated": "2026-11-24T09:06:42.346Z",
+      "note": "蓝图桌 + 橡木箱，可上传 .nbt 蓝图给蓝图大炮用"
+    },
+    {
+      "id": "3b7ea952",
+      "category": "logistics",
+      "created": "2026-11-24T09:04:10.246Z",
+      "name": "chain_conveyor×1",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 113,
+        "y": 70,
+        "z": 535
+      },
+      "to": {
+        "x": 113,
+        "y": 74,
+        "z": 535
+      },
+      "blocks": {
+        "create:chain_conveyor": 1,
+        "create:gearbox": 1,
+        "create:shaft": 3
+      },
+      "kinetics": "turning",
+      "auto_name": "chain_conveyor×1",
+      "updated": "2026-11-24T09:05:28.796Z"
+    },
+    {
+      "id": "d0fe81f7",
+      "category": "logistics",
+      "created": "2026-11-24T09:04:10.246Z",
+      "name": "chain_conveyor×1",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 129,
+        "y": 70,
+        "z": 536
+      },
+      "to": {
+        "x": 129,
+        "y": 74,
+        "z": 536
+      },
+      "blocks": {
+        "create:chain_conveyor": 1,
+        "create:gearbox": 1,
+        "create:shaft": 3
+      },
+      "kinetics": "turning",
+      "auto_name": "chain_conveyor×1",
+      "updated": "2026-11-24T09:05:00.198Z"
+    },
+    {
+      "id": "45d7af93",
+      "created": "2026-11-24T09:07:02.649Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 89,
+        "y": 63,
+        "z": 446
+      },
+      "to": {
+        "x": 89,
+        "y": 63,
+        "z": 446
+      },
+      "category": "elevator",
+      "name": "电梯站·基地北（下层 y63）",
+      "note": "安山岩门×2 + 电梯触点；通往地下地铁（施工中）",
+      "updated": "2026-11-24T09:07:02.649Z"
+    },
+    {
+      "id": "1b2d6cdd",
+      "created": "2026-11-24T09:07:02.699Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 96,
+        "y": 71,
+        "z": 532
+      },
+      "to": {
+        "x": 96,
+        "y": 71,
+        "z": 532
+      },
+      "category": "elevator",
+      "name": "电梯站·南（地面 y71）",
+      "note": "安山岩门×2 + 电梯触点；通往地下地铁（施工中）",
+      "updated": "2026-11-24T09:07:02.699Z"
+    },
+    {
+      "id": "22309f65",
+      "created": "2026-11-24T09:07:02.745Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 96,
+        "y": 61,
+        "z": 532
+      },
+      "to": {
+        "x": 96,
+        "y": 61,
+        "z": 532
+      },
+      "category": "elevator",
+      "name": "电梯站·南（下层 y61）",
+      "note": "安山岩门×2 + 电梯触点；地铁层（施工中）",
+      "updated": "2026-11-24T09:07:02.745Z"
+    },
+    {
+      "id": "2dda9162",
+      "created": "2026-11-24T09:21:21.224Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "to": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "category": "waystone_destination",
+      "name": "传送点：出生岛",
+      "note": "从基地传送石碑可传送，距离 702m；用户说有产线",
+      "updated": "2026-11-24T09:21:21.224Z"
+    },
+    {
+      "id": "63d540b1",
+      "created": "2026-11-24T09:21:21.278Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "to": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "category": "waystone_destination",
+      "name": "传送点：正太岛",
+      "note": "从基地传送石碑可传送；用户说有产线",
+      "updated": "2026-11-24T09:21:21.278Z"
+    },
+    {
+      "id": "d8e5aa3b",
+      "created": "2026-11-24T09:21:21.317Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "to": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "category": "waystone_destination",
+      "name": "传送点：Creoirarc",
+      "note": "从基地传送石碑可传送，距离 4733m",
+      "updated": "2026-11-24T09:21:21.317Z"
+    },
+    {
+      "id": "0fbb4083",
+      "created": "2026-11-24T09:21:21.364Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "to": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "category": "waystone_destination",
+      "name": "传送点：Crumurmed",
+      "note": "从基地传送石碑可传送",
+      "updated": "2026-11-24T09:21:21.364Z"
+    },
+    {
+      "id": "73692dcc",
+      "created": "2026-11-24T09:21:21.415Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "to": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "category": "waystone_destination",
+      "name": "传送点：施工",
+      "note": "从基地传送石碑可传送，距离 328m",
+      "updated": "2026-11-24T09:21:21.415Z"
+    },
+    {
+      "id": "de70e7f4",
+      "created": "2026-11-24T09:21:21.464Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "to": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "category": "waystone_destination",
+      "name": "传送点：海",
+      "note": "从基地传送石碑可传送，距离 454m",
+      "updated": "2026-11-24T09:21:21.464Z"
+    },
+    {
+      "id": "c69cf38f",
+      "created": "2026-11-24T09:21:21.513Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "to": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "category": "waystone_destination",
+      "name": "传送点：林岛-问天剑宗",
+      "note": "从基地传送石碑可传送，距离 1547m",
+      "updated": "2026-11-24T09:21:21.513Z"
+    },
+    {
+      "id": "81a0f588",
+      "created": "2026-11-24T09:21:21.567Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "to": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "category": "waystone_destination",
+      "name": "传送点：沉沦之城利维坦",
+      "note": "从基地传送石碑可传送，距离 约 9000m",
+      "updated": "2026-11-24T09:21:21.567Z"
+    },
+    {
+      "id": "f8940916",
+      "created": "2026-11-24T09:21:21.616Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "to": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "category": "waystone_destination",
+      "name": "传送点：烈焰竞技场",
+      "note": "从基地传送石碑可传送，距离 下界",
+      "updated": "2026-11-24T09:21:21.616Z"
+    },
+    {
+      "id": "9d163354",
+      "created": "2026-11-24T09:21:21.663Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "to": {
+        "x": 47,
+        "y": 69,
+        "z": 462
+      },
+      "category": "waystone_destination",
+      "name": "传送点：圣所",
+      "note": "从基地传送石碑可传送，距离 下界",
+      "updated": "2026-11-24T09:21:21.663Z"
+    },
+    {
+      "id": "295525e9",
+      "category": "production_line",
+      "created": "2026-11-24T09:42:19.907Z",
+      "name": "正太岛·综合加工线（西）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 2407,
+        "y": 756,
+        "z": -1677
+      },
+      "to": {
+        "x": 2421,
+        "y": 761,
+        "z": -1634
+      },
+      "blocks": {
+        "cobblestone_generator:iron_cobblegen": 1,
+        "create:andesite_belt_funnel": 15,
+        "create:andesite_encased_cogwheel": 6,
+        "create:andesite_encased_large_cogwheel": 6,
+        "create:andesite_encased_shaft": 16,
+        "create:basin": 9,
+        "create:belt": 42,
+        "create:blaze_burner": 2,
+        "create:brass_belt_funnel": 14,
+        "create:brass_funnel": 5,
+        "create:chute": 2,
+        "create:cogwheel": 17,
+        "create:crushing_wheel": 6,
+        "create:crushing_wheel_controller": 3,
+        "create:depot": 8,
+        "create:encased_chain_drive": 10,
+        "create:encased_fan": 4,
+        "create:fluid_pipe": 25,
+        "create:fluid_tank": 18,
+        "create:gearbox": 20,
+        "create:gearshift": 1,
+        "create:hand_crank": 2,
+        "create:item_vault": 44,
+        "create:large_cogwheel": 2,
+        "create:mechanical_mixer": 2,
+        "create:mechanical_press": 8,
+        "create:mechanical_pump": 5,
+        "create:rotation_speed_controller": 3,
+        "create:shaft": 7,
+        "create:spout": 2,
+        "create:water_wheel": 3,
+        "create:windmill_bearing": 1,
+        "createaddition:rolling_mill": 1,
+        "fxntstorage:smart_passer_block": 1,
+        "laowu:cat_carrier": 2,
+        "laowu:cat_engine": 7,
+        "minecraft:chest": 4
+      },
+      "kinetics": "partly turning",
+      "auto_name": "item_vault×44 + fluid_tank×18 + basin×9",
+      "updated": "2026-11-24T09:43:21.616Z",
+      "note": "辊压机×8、粉碎轮×6、搅拌器×2、注液器×2、烈焰人燃烧室×2、轧机；44 物品保险库 + 18 流体储罐；水车/风车/猫猫引擎供能；铁圆石生成器。部分在转（压机 256rpm）。盆里有铁锭、甜菜种子"
+    },
+    {
+      "id": "73a656bb",
+      "category": "kitchen",
+      "created": "2026-11-24T09:42:19.907Z",
+      "name": "正太岛·主屋（厨房/仓库）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 2430,
+        "y": 759,
+        "z": -1654
+      },
+      "to": {
+        "x": 2452,
+        "y": 768,
+        "z": -1640
+      },
+      "blocks": {
+        "farmersdelight:cooking_pot": 1,
+        "farmersdelight:cutting_board": 1,
+        "farmersdelight:skillet": 1,
+        "farmersdelight:stove": 2,
+        "minecraft:barrel": 149,
+        "minecraft:bell": 1,
+        "minecraft:blast_furnace": 1,
+        "minecraft:brewing_stand": 1,
+        "minecraft:campfire": 1,
+        "minecraft:smoker": 1,
+        "supplementaries:book_pile_horizontal": 16,
+        "supplementaries:globe": 1,
+        "supplementaries:goblet": 1,
+        "supplementaries:statue": 1,
+        "vinery:apple_press": 2,
+        "waystones:waystone": 2
+      },
+      "auto_name": "barrel×149 + book_pile_horizontal×16 + stove×2",
+      "updated": "2026-11-24T09:43:22.006Z",
+      "note": "149 木桶、炉灶、烹饪锅、砧板、苹果榨汁机、酿造台、高炉、烟熏炉；含传送石碑（到达点附近）"
+    },
+    {
+      "id": "93c712f7",
+      "category": "production_line",
+      "created": "2026-11-24T09:42:19.907Z",
+      "name": "正太岛·粉碎轮产线（南，黏土）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 2435,
+        "y": 757,
+        "z": -1698
+      },
+      "to": {
+        "x": 2443,
+        "y": 760,
+        "z": -1679
+      },
+      "blocks": {
+        "create:andesite_belt_funnel": 1,
+        "create:andesite_encased_cogwheel": 3,
+        "create:andesite_encased_shaft": 8,
+        "create:andesite_funnel": 1,
+        "create:belt": 18,
+        "create:brass_belt_funnel": 2,
+        "create:brass_funnel": 1,
+        "create:brass_tunnel": 1,
+        "create:cogwheel": 1,
+        "create:crushing_wheel": 4,
+        "create:crushing_wheel_controller": 4,
+        "create:depot": 1,
+        "create:encased_chain_drive": 3,
+        "create:encased_fan": 2,
+        "create:gearbox": 10,
+        "create:gearshift": 1,
+        "create:item_vault": 93
+      },
+      "kinetics": "turning",
+      "auto_name": "item_vault×93 + crushing_wheel×4 + crushing_wheel_controller×4",
+      "updated": "2026-11-24T09:43:21.665Z",
+      "note": "4 对粉碎轮 + 93 物品保险库，256rpm 在转；置物台上有黏土球"
+    },
+    {
+      "id": "9f8eb3eb",
+      "category": "production_line",
+      "created": "2026-11-24T09:42:19.907Z",
+      "name": "正太岛·圆石粉碎/搅拌线（西南）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 2421,
+        "y": 757,
+        "z": -1705
+      },
+      "to": {
+        "x": 2426,
+        "y": 760,
+        "z": -1696
+      },
+      "blocks": {
+        "cobblestone_generator:iron_cobblegen": 1,
+        "create:andesite_belt_funnel": 7,
+        "create:basin": 1,
+        "create:belt": 22,
+        "create:brass_belt_funnel": 1,
+        "create:brass_funnel": 1,
+        "create:chute": 2,
+        "create:cogwheel": 3,
+        "create:crushing_wheel": 2,
+        "create:crushing_wheel_controller": 1,
+        "create:fluid_pipe": 2,
+        "create:gearbox": 4,
+        "create:item_vault": 20,
+        "create:mechanical_mixer": 1,
+        "create:mechanical_pump": 1,
+        "create:shaft": 2,
+        "create_connected:parallel_gearbox": 1
+      },
+      "kinetics": "turning",
+      "auto_name": "item_vault×20 + crushing_wheel×2 + iron_cobblegen×1",
+      "updated": "2026-11-24T09:43:21.710Z",
+      "note": "铁圆石生成器 → 粉碎轮 → 搅拌器，产煤渣粉（cinder_flour），20 物品保险库，在转"
+    },
+    {
+      "id": "9204fa5e",
+      "category": "storage",
+      "created": "2026-11-24T09:42:19.907Z",
+      "name": "正太岛·二楼仓库（木桶 + 蜂箱）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 2430,
+        "y": 771,
+        "z": -1654
+      },
+      "to": {
+        "x": 2444,
+        "y": 772,
+        "z": -1643
+      },
+      "blocks": {
+        "minecraft:barrel": 47,
+        "minecraft:beehive": 2,
+        "minecraft:chest": 12,
+        "supplementaries:book_pile_horizontal": 1
+      },
+      "auto_name": "barrel×47 + chest×12 + beehive×2",
+      "updated": "2026-11-24T09:43:22.057Z",
+      "note": "47 木桶、12 箱子、2 蜂箱"
+    },
+    {
+      "id": "39dbea15",
+      "category": "power",
+      "created": "2026-11-24T09:42:19.907Z",
+      "name": "正太岛·猫猫引擎动力站",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 2430,
+        "y": 757,
+        "z": -1688
+      },
+      "to": {
+        "x": 2433,
+        "y": 763,
+        "z": -1679
+      },
+      "blocks": {
+        "create:cogwheel": 9,
+        "create:encased_chain_drive": 2,
+        "create:fluid_pipe": 14,
+        "create:gearbox": 3,
+        "create:large_cogwheel": 1,
+        "create:mechanical_pump": 3,
+        "create:rotation_speed_controller": 1,
+        "createaddition:alternator": 1,
+        "createaddition:connector": 1,
+        "laowu:cat_carrier": 3,
+        "laowu:cat_engine": 14
+      },
+      "kinetics": "turning",
+      "auto_name": "cat_engine×14 + mechanical_pump×3 + cat_carrier×3",
+      "updated": "2026-11-24T09:43:21.779Z",
+      "note": "14 猫猫引擎 + 泵 + 交流发电机，96rpm 在转"
+    },
+    {
+      "id": "b1e6fdcb",
+      "category": "storage",
+      "created": "2026-11-24T09:42:19.907Z",
+      "name": "正太岛·保险库仓储 + 弹射器",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 2417,
+        "y": 756,
+        "z": -1677
+      },
+      "to": {
+        "x": 2427,
+        "y": 760,
+        "z": -1672
+      },
+      "blocks": {
+        "create:belt": 2,
+        "create:brass_belt_funnel": 1,
+        "create:brass_funnel": 1,
+        "create:chute": 2,
+        "create:cogwheel": 3,
+        "create:item_vault": 24,
+        "create:portable_storage_interface": 1,
+        "create:weighted_ejector": 1,
+        "minecraft:chest": 2
+      },
+      "kinetics": "turning",
+      "auto_name": "item_vault×24 + chest×2 + portable_storage_interface×1",
+      "updated": "2026-11-24T09:43:21.903Z",
+      "note": "24 物品保险库、可移动存储接口、置物弹射器，在转；溜槽里有胡萝卜"
+    },
+    {
+      "id": "5d906d9e",
+      "category": "production_line",
+      "created": "2026-11-24T09:42:19.907Z",
+      "name": "正太岛·风扇加工（营火/灵魂营火）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 2426,
+        "y": 757,
+        "z": -1659
+      },
+      "to": {
+        "x": 2440,
+        "y": 759,
+        "z": -1658
+      },
+      "blocks": {
+        "create:andesite_encased_shaft": 10,
+        "create:cogwheel": 1,
+        "create:encased_chain_drive": 6,
+        "create:encased_fan": 4,
+        "create:fluid_pipe": 1,
+        "create:hand_crank": 1,
+        "create:large_cogwheel": 1,
+        "create:mechanical_pump": 1,
+        "create:rotation_speed_controller": 1,
+        "laowu:cat_carrier": 1,
+        "laowu:cat_engine": 1,
+        "minecraft:campfire": 2,
+        "minecraft:soul_campfire": 2
+      },
+      "kinetics": "turning",
+      "auto_name": "campfire×2 + soul_campfire×2 + hand_crank×1",
+      "updated": "2026-11-24T09:43:21.803Z",
+      "note": "4 鼓风机对着营火和灵魂营火（烟熏/洗涤类批量加工），猫猫引擎供能，在转"
+    },
+    {
+      "id": "f0047351",
+      "category": "waystone",
+      "created": "2026-11-24T09:42:19.907Z",
+      "name": "正太岛·传送石碑 + 箱子",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 2432,
+        "y": 757,
+        "z": -1671
+      },
+      "to": {
+        "x": 2436,
+        "y": 758,
+        "z": -1667
+      },
+      "blocks": {
+        "minecraft:chest": 8,
+        "waystones:waystone": 2
+      },
+      "auto_name": "chest×8 + waystone×2",
+      "updated": "2026-11-24T09:43:21.955Z",
+      "note": "8 箱子 + 传送石碑（2434,758,-1669 附近）"
+    },
+    {
+      "id": "3406ea46",
+      "category": "storage",
+      "created": "2026-11-24T09:42:19.907Z",
+      "name": "正太岛·顶楼储物",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 2431,
+        "y": 776,
+        "z": -1653
+      },
+      "to": {
+        "x": 2435,
+        "y": 777,
+        "z": -1653
+      },
+      "blocks": {
+        "minecraft:barrel": 4,
+        "minecraft:chest": 4
+      },
+      "auto_name": "barrel×4 + chest×4",
+      "updated": "2026-11-24T09:43:22.109Z",
+      "note": "4 木桶 + 4 箱子"
+    },
+    {
+      "id": "ebd920f2",
+      "category": "production_line",
+      "created": "2026-11-24T09:42:19.907Z",
+      "name": "正太岛·风扇组（西，停转）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 2410,
+        "y": 757,
+        "z": -1682
+      },
+      "to": {
+        "x": 2410,
+        "y": 760,
+        "z": -1680
+      },
+      "blocks": {
+        "create:cogwheel": 1,
+        "create:encased_chain_drive": 3,
+        "create:encased_fan": 2,
+        "create_connected:parallel_gearbox": 1
+      },
+      "kinetics": "not turning (no power or overstressed)",
+      "auto_name": "encased_chain_drive×3 + encased_fan×2",
+      "updated": "2026-11-24T09:43:21.859Z",
+      "note": "2 鼓风机 + 链传动，扫描时没在转：无动力或过载"
+    },
+    {
+      "id": "bb52ae0d",
+      "category": "portal",
+      "created": "2026-11-24T09:42:19.907Z",
+      "name": "正太岛·下界传送门",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 2427,
+        "y": 757,
+        "z": -1652
+      },
+      "to": {
+        "x": 2427,
+        "y": 759,
+        "z": -1651
+      },
+      "blocks": {
+        "minecraft:nether_portal": 6
+      },
+      "auto_name": "nether_portal×6",
+      "updated": "2026-11-24T09:43:22.157Z",
+      "note": "(2427,758,-1651)"
+    },
+    {
+      "id": "ac23bd28",
+      "category": "production_line",
+      "created": "2026-11-24T09:44:11.359Z",
+      "name": "出生岛·综合加工线（东南）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 40,
+        "y": 603,
+        "z": 39
+      },
+      "to": {
+        "x": 53,
+        "y": 608,
+        "z": 53
+      },
+      "blocks": {
+        "create:basin": 2,
+        "create:belt": 9,
+        "create:blaze_burner": 2,
+        "create:chute": 12,
+        "create:cogwheel": 27,
+        "create:deployer": 6,
+        "create:depot": 5,
+        "create:encased_fan": 1,
+        "create:fluid_pipe": 12,
+        "create:fluid_tank": 3,
+        "create:gearbox": 8,
+        "create:gearshift": 1,
+        "create:item_drain": 1,
+        "create:large_cogwheel": 2,
+        "create:mechanical_mixer": 1,
+        "create:mechanical_press": 3,
+        "create:mechanical_pump": 3,
+        "create:mechanical_saw": 1,
+        "create:rotation_speed_controller": 2,
+        "create:shaft": 10,
+        "create:spout": 1,
+        "createaddition:alternator": 2,
+        "createaddition:connector": 2,
+        "createaddition:large_connector": 3,
+        "createaddition:rolling_mill": 1,
+        "laowu:cat_carrier": 1,
+        "laowu:cat_engine": 7,
+        "minecraft:barrel": 16,
+        "minecraft:chest": 1,
+        "minecraft:hopper": 2,
+        "quark:oak_chest": 2
+      },
+      "kinetics": "turning",
+      "auto_name": "barrel×16 + cat_engine×7 + deployer×6",
+      "updated": "2026-11-24T09:45:24.555Z",
+      "note": "机械手×6、辊压机×3、搅拌器、注液器、锯、鼓风机、物品排液器、烈焰人燃烧室×2、轧机；7 猫猫引擎 + 2 交流发电机供能，转速控制器 256rpm，在转；16 木桶 + 3 流体储罐"
+    },
+    {
+      "id": "ecb66e65",
+      "category": "kitchen",
+      "created": "2026-11-24T09:44:11.359Z",
+      "name": "出生岛·厨房（东）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 46,
+        "y": 604,
+        "z": 23
+      },
+      "to": {
+        "x": 58,
+        "y": 607,
+        "z": 27
+      },
+      "blocks": {
+        "cobblestone_generator:iron_cobblegen": 1,
+        "farmersdelight:cooking_pot": 1,
+        "farmersdelight:cutting_board": 1,
+        "farmersdelight:stove": 2,
+        "kaleidoscope_cookery:chopping_board": 1,
+        "kaleidoscope_cookery:pot": 1,
+        "minecraft:barrel": 5,
+        "minecraft:campfire": 2,
+        "minecraft:hopper": 1,
+        "quark:cherry_chest": 1,
+        "quark:oak_chest": 5
+      },
+      "auto_name": "barrel×5 + oak_chest×5 + stove×2",
+      "updated": "2026-11-24T09:45:24.754Z",
+      "note": "炉灶×2、烹饪锅、砧板、营火×2、铁圆石生成器、农艺魔源连接器；5 木桶 + 6 箱子"
+    },
+    {
+      "id": "3ffe5e43",
+      "category": "production_line",
+      "created": "2026-11-24T09:44:11.359Z",
+      "name": "出生岛·新生魔艺附魔台",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 20,
+        "y": 605,
+        "z": 19
+      },
+      "to": {
+        "x": 29,
+        "y": 606,
+        "z": 21
+      },
+      "blocks": {
+        "ars_nouveau:arcane_core": 1,
+        "ars_nouveau:arcane_pedestal": 11,
+        "ars_nouveau:enchanting_apparatus": 1,
+        "ars_nouveau:imbuement_chamber": 4,
+        "ars_nouveau:source_jar": 2,
+        "minecraft:barrel": 1
+      },
+      "auto_name": "arcane_pedestal×11 + imbuement_chamber×4 + source_jar×2",
+      "updated": "2026-11-24T09:45:24.656Z",
+      "note": "附魔装置 + 奥术核心 + 11 奥术基座、4 灌注室、2 魔源罐"
+    },
+    {
+      "id": "9694b93f",
+      "category": "production_line",
+      "created": "2026-11-24T09:44:11.359Z",
+      "name": "出生岛·熔炉排",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 32,
+        "y": 605,
+        "z": 20
+      },
+      "to": {
+        "x": 40,
+        "y": 607,
+        "z": 21
+      },
+      "blocks": {
+        "minecraft:barrel": 6,
+        "minecraft:blast_furnace": 2,
+        "minecraft:furnace": 6,
+        "quark:cherry_chest": 2
+      },
+      "auto_name": "barrel×6 + furnace×6 + blast_furnace×2",
+      "updated": "2026-11-24T09:45:24.704Z",
+      "note": "6 熔炉 + 2 高炉 + 6 木桶 + 2 樱桃木箱"
+    },
+    {
+      "id": "20480b75",
+      "category": "power",
+      "created": "2026-11-24T09:44:11.359Z",
+      "name": "出生岛·储能站（蓄电池 + 特斯拉线圈）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 32,
+        "y": 605,
+        "z": 42
+      },
+      "to": {
+        "x": 34,
+        "y": 608,
+        "z": 46
+      },
+      "blocks": {
+        "create:depot": 2,
+        "createaddition:large_connector": 4,
+        "createaddition:modular_accumulator": 8,
+        "createaddition:tesla_coil": 2
+      },
+      "auto_name": "modular_accumulator×8 + large_connector×4 + depot×2",
+      "updated": "2026-11-24T09:45:24.605Z",
+      "note": "8 模块化蓄电池、4 大型接线器、2 特斯拉线圈（充电）、2 置物台"
+    },
+    {
+      "id": "035c99a8",
+      "category": "kitchen",
+      "created": "2026-11-24T09:44:11.359Z",
+      "name": "出生岛·厨房（苹果榨汁机/烤箱，停转）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 47,
+        "y": 603,
+        "z": 19
+      },
+      "to": {
+        "x": 52,
+        "y": 606,
+        "z": 21
+      },
+      "blocks": {
+        "cookscollection:oven": 1,
+        "create:gearbox": 2,
+        "create:shaft": 2,
+        "farmersdelight:stove": 1,
+        "kaleidoscope_cookery:stockpot": 1,
+        "minecraft:furnace": 1,
+        "minecraft:smoker": 1,
+        "vinery:apple_press": 2
+      },
+      "kinetics": "not turning (no power or overstressed)",
+      "auto_name": "apple_press×2 + oven×1 + stove×1",
+      "updated": "2026-11-24T09:45:24.808Z",
+      "note": "2 苹果榨汁机、烤箱、炖锅、炉灶、烟熏炉；连着的传动轴扫描时没在转"
+    },
+    {
+      "id": "5bbc0338",
+      "category": "portal",
+      "created": "2026-11-24T09:44:11.359Z",
+      "name": "出生岛·下界传送门",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 19,
+        "y": 606,
+        "z": 7
+      },
+      "to": {
+        "x": 19,
+        "y": 608,
+        "z": 8
+      },
+      "blocks": {
+        "minecraft:nether_portal": 6
+      },
+      "auto_name": "nether_portal×6",
+      "updated": "2026-11-24T09:45:25.106Z",
+      "note": "(19,607,8)"
+    },
+    {
+      "id": "d484ff5e",
+      "category": "production_line",
+      "created": "2026-11-24T09:44:11.359Z",
+      "name": "出生岛·枪械工作台",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 22,
+        "y": 605,
+        "z": 15
+      },
+      "to": {
+        "x": 23,
+        "y": 605,
+        "z": 16
+      },
+      "blocks": {
+        "minecraft:barrel": 2,
+        "tacz:workbench_b": 2
+      },
+      "auto_name": "barrel×2 + workbench_b×2",
+      "updated": "2026-11-24T09:45:24.956Z",
+      "note": "2 个 TaCZ 枪械工作台 + 2 木桶"
+    },
+    {
+      "id": "68049ed7",
+      "category": "place",
+      "created": "2026-11-24T09:44:11.359Z",
+      "name": "出生岛·神龛/女神像",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 29,
+        "y": 605,
+        "z": 29
+      },
+      "to": {
+        "x": 32,
+        "y": 606,
+        "z": 29
+      },
+      "blocks": {
+        "cataclysm:goddess_statue": 2,
+        "quark:oak_chest": 1,
+        "touhou_little_maid:shrine": 1
+      },
+      "auto_name": "goddess_statue×2 + oak_chest×1 + shrine×1",
+      "updated": "2026-11-24T09:45:25.005Z",
+      "note": "车万女仆神龛 + 2 女神像 + 箱子"
+    },
+    {
+      "id": "7bf314d8",
+      "category": "production_line",
+      "created": "2026-11-24T09:44:11.359Z",
+      "name": "出生岛·压榨桶（酒馆）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 38,
+        "y": 605,
+        "z": 28
+      },
+      "to": {
+        "x": 40,
+        "y": 605,
+        "z": 30
+      },
+      "blocks": {
+        "ars_nouveau:agronomic_sourcelink": 1,
+        "kaleidoscope_tavern:pressing_tub": 2,
+        "quark:cherry_chest": 1
+      },
+      "auto_name": "pressing_tub×2 + agronomic_sourcelink×1 + cherry_chest×1",
+      "updated": "2026-11-24T09:45:24.858Z",
+      "note": "2 压榨桶 + 农艺魔源连接器 + 樱桃木箱"
+    },
+    {
+      "id": "2e5bd5cc",
+      "category": "storage",
+      "created": "2026-11-24T09:44:11.359Z",
+      "name": "出生岛·箱子（东南角）",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 52,
+        "y": 605,
+        "z": 50
+      },
+      "to": {
+        "x": 52,
+        "y": 606,
+        "z": 51
+      },
+      "blocks": {
+        "quark:oak_chest": 4
+      },
+      "auto_name": "oak_chest×4",
+      "updated": "2026-11-24T09:45:25.059Z",
+      "note": "4 橡木箱"
+    },
+    {
+      "id": "9c4821c0",
+      "category": "farm",
+      "created": "2026-11-24T09:44:11.359Z",
+      "name": "出生岛·作物增幅器",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 43,
+        "y": 604,
+        "z": 33
+      },
+      "to": {
+        "x": 43,
+        "y": 607,
+        "z": 33
+      },
+      "blocks": {
+        "createaddition:connector": 1,
+        "mod_46a42a0b:crop_amplifier": 2
+      },
+      "auto_name": "crop_amplifier×2 + connector×1",
+      "updated": "2026-11-24T09:45:24.905Z",
+      "note": "2 作物增幅器 + 接线器（农田增产）"
+    },
+    {
+      "id": "540c1c2f",
+      "created": "2026-11-24T09:45:25.208Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 2434,
+        "y": 757,
+        "z": -1669
+      },
+      "to": {
+        "x": 2434,
+        "y": 757,
+        "z": -1669
+      },
+      "category": "waystone_destination",
+      "name": "传送点：东北电力大学国家大学科技园",
+      "note": "正太岛上的另一块传送石碑 (2434,757,-1669)，2026-11-24 巡视时激活",
+      "updated": "2026-11-24T09:45:25.208Z"
+    },
+    {
+      "id": "a52b8925",
+      "created": "2026-11-24T10:01:10.608Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 58,
+        "y": 74,
+        "z": 449
+      },
+      "to": {
+        "x": 58,
+        "y": 74,
+        "z": 449
+      },
+      "category": "storage",
+      "name": "露台储物·下界合金碎片箱",
+      "note": "双箱 (58,74,449~450)：下界合金碎片×48、钍×44、粗铜×29、绿帘石(veridium)×155、玻璃×85 等杂物",
+      "updated": "2026-11-24T10:01:10.608Z"
+    },
+    {
+      "id": "c7bd5c4e",
+      "created": "2026-11-24T10:01:10.657Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 58,
+        "y": 74,
+        "z": 451
+      },
+      "to": {
+        "x": 58,
+        "y": 74,
+        "z": 451
+      },
+      "category": "storage",
+      "name": "露台储物·铜锭/煤/大齿轮箱",
+      "note": "双箱 (58,74,451~452)：铜锭×62、煤×21、大齿轮×17、齿轮×2、金锭×7、下界合金碎片×1、红石×22、面粉×43",
+      "updated": "2026-11-24T10:01:10.657Z"
+    },
+    {
+      "id": "5ef48c2b",
+      "created": "2026-11-24T10:01:10.706Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 55,
+        "y": 71,
+        "z": 454
+      },
+      "to": {
+        "x": 55,
+        "y": 71,
+        "z": 454
+      },
+      "category": "storage",
+      "name": "露台储物·创造烈焰蛋糕/铁锭箱",
+      "note": "创造烈焰蛋糕×10、铁锭×40、传送带连接器×16、航空币×20、圆石台阶×132、黑石台阶×126、泥土×192",
+      "updated": "2026-11-24T10:01:10.706Z"
+    },
+    {
+      "id": "92889a90",
+      "created": "2026-11-24T10:01:10.771Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 56,
+        "y": 70,
+        "z": 454
+      },
+      "to": {
+        "x": 56,
+        "y": 70,
+        "z": 454
+      },
+      "category": "storage",
+      "name": "露台储物·煤/烈焰粉箱",
+      "note": "煤×20、烈焰粉×4、铁板×2、末影珍珠×8、末影之眼×5、钻石×2、深板岩圆石×98",
+      "updated": "2026-11-24T10:01:10.771Z"
+    },
+    {
+      "id": "c55c6ef6",
+      "created": "2026-11-24T10:01:10.806Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 67,
+        "y": 69,
+        "z": 472
+      },
+      "to": {
+        "x": 67,
+        "y": 69,
+        "z": 472
+      },
+      "category": "storage",
+      "name": "工厂杂物箱",
+      "note": "铁粒×36、烈焰珍珠×2、毒马铃薯×43、蓝图×1 等杂物",
+      "updated": "2026-11-24T10:01:10.806Z"
+    },
+    {
+      "id": "fcd66b80",
+      "created": "2026-11-24T10:01:10.860Z",
+      "dimension": "minecraft:overworld",
+      "from": {
+        "x": 73,
+        "y": 69,
+        "z": 479
+      },
+      "to": {
+        "x": 73,
+        "y": 69,
+        "z": 479
+      },
+      "category": "storage",
+      "name": "库存链接网络（仓库管理员猫）",
+      "note": "右键座位上的猫打开总览：泥土1000+、地狱岩416、原木、金锭15 等杂物；没有铁锭/煤/机械动力材料（2026-11-24）",
+      "updated": "2026-11-24T10:01:10.860Z"
+    }
+  ]
+}

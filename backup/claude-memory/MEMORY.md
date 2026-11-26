@@ -1,0 +1,3 @@
+﻿- [SkyCodex handoff](skycodex-handoff.md) — handoff doc location, dev paths, waystone tool half-done (2026-11-24)
+- [Nethersteel line](nethersteel-line.md) — steel/nethersteel line layout south of main factory, feed points, wheel/basin gotchas
+- [Remote control procedure](remote-control-procedure.md) — user plays remotely: I press F8 / Esc / join server myself via computer-use

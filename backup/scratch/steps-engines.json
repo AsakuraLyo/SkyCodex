@@ -1,0 +1,7 @@
+[
+  {"tool": "mc_move", "args": {"x": 61, "y": 69, "z": 495, "radius": 1}},
+  {"tool": "mc_craft", "args": {"recipe": "minecraft:crafting_table", "times": 1}, "expect": {"item": "minecraft:crafting_table", "at_least": 1}},
+  {"tool": "mc_place", "args": {"x": 60, "y": 69, "z": 496, "item": "minecraft:crafting_table"}},
+  {"tool": "mc_craft", "args": {"recipe": "create:crafting/materials/brass_block_from_compacting", "times": 5}, "expect": {"item": "create:brass_block", "at_least": 5}},
+  {"tool": "mc_craft", "args": {"recipe": "laowu:cat_engine", "times": 5}, "expect": {"item": "laowu:cat_engine", "at_least": 5}}
+]

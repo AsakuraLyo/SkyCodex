@@ -1,0 +1,35 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.148'
+}
+group = 'dev.skycodex'
+version = '0.1.0-beta.2'
+base { archivesName = 'skycodex-neoforge-1.21.1' }
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+neoForge {
+    version = '21.1.249'
+    runs {
+        client {
+            client()
+            // Dev-only smoke test harness (DevHarness): auto test world, auto-enable, setup commands.
+            systemProperty 'skycodex.dev', 'true'
+        }
+        // Same dev harness inside a copy of the SkyExplorer modpack (mods/config/kubejs copied into run-modpack by
+        // scripts/modpack-run.ps1). Offline dev account, local test world only. Task: runModpack.
+        modpack {
+            client()
+            gameDirectory = project.file('run-modpack')
+            systemProperty 'skycodex.dev', 'true'
+            jvmArgument '-Xmx10G'
+        }
+    }
+    mods { skycodex { sourceSet sourceSets.main } }
+}
+dependencies {
+    implementation files('libs/baritone-api-neoforge-1.11.3.jar')
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.11.4'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+}
+repositories { mavenCentral() }
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+tasks.named('test', Test) { useJUnitPlatform() }

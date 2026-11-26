@@ -1,0 +1,16 @@
+[
+  {"x": 77, "y": 71, "z": 490, "item": "create:shaft", "properties": {"axis": "z"}},
+  {"x": 77, "y": 71, "z": 491, "item": "create:shaft", "properties": {"axis": "z"}},
+  {"x": 77, "y": 71, "z": 492, "item": "create:shaft", "properties": {"axis": "z"}},
+  {"x": 77, "y": 71, "z": 493, "item": "create:shaft", "properties": {"axis": "z"}},
+  {"x": 77, "y": 71, "z": 494, "item": "create:shaft", "properties": {"axis": "z"}},
+  {"x": 77, "y": 71, "z": 495, "item": "create:shaft", "properties": {"axis": "z"}},
+  {"x": 77, "y": 71, "z": 496, "item": "create:gearbox", "properties": {"axis": "y"}},
+  {"x": 76, "y": 71, "z": 496, "item": "create:shaft", "properties": {"axis": "x"}},
+  {"x": 75, "y": 71, "z": 496, "item": "create:shaft", "properties": {"axis": "x"}},
+  {"x": 74, "y": 71, "z": 496, "item": "create:shaft", "properties": {"axis": "x"}},
+  {"x": 73, "y": 71, "z": 496, "item": "create:shaft", "properties": {"axis": "x"}},
+  {"x": 72, "y": 71, "z": 496, "item": "create:shaft", "properties": {"axis": "x"}},
+  {"x": 71, "y": 71, "z": 496, "item": "create:shaft", "properties": {"axis": "x"}},
+  {"x": 70, "y": 71, "z": 496, "item": "create:gearbox", "properties": {"axis": "z"}}
+]

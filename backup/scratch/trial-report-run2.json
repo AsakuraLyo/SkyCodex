@@ -1,0 +1,604 @@
+{
+  "date": "2026-11-24T07:13:12.578Z",
+  "blueprint": "sea-shelter.json",
+  "blocks": 3541,
+  "size": [
+    23,
+    57,
+    42
+  ],
+  "slices": [
+    {
+      "slice": "y 0..3",
+      "file": "_trial-sea-shelter-y0-3.json",
+      "blocks": 182,
+      "supported": 182,
+      "skipped": [],
+      "skipped_count": 0,
+      "materials": [
+        {
+          "item": "create:andesite_bars",
+          "required": 64
+        },
+        {
+          "item": "create:deepslate_pillar",
+          "required": 16
+        },
+        {
+          "item": "create:polished_cut_deepslate_wall",
+          "required": 64
+        },
+        {
+          "item": "createdieselgenerators:andesite_girder",
+          "required": 37
+        },
+        {
+          "item": "minecraft:oak_button",
+          "required": 1
+        }
+      ],
+      "state": "failed",
+      "message": "2 blocks could not be placed (see job.detail.unplaced); the rest is verified",
+      "unplaced": [
+        {
+          "x": 4,
+          "y": 612,
+          "z": -486,
+          "block": "createdieselgenerators:andesite_girder",
+          "wanted": "Block{createdieselgenerators:andesite_girder}[axis=x,bottom=true,top=true,waterlogged=false,x=true,z=false]",
+          "reason": "no support face / standing position gives this state"
+        },
+        {
+          "x": 3,
+          "y": 612,
+          "z": -487,
+          "block": "minecraft:oak_button",
+          "wanted": "Block{minecraft:oak_button}[face=wall,facing=north,powered=false]",
+          "reason": "no support face / standing position gives this state"
+        }
+      ],
+      "seconds": 141,
+      "verified": 180,
+      "remaining": 2,
+      "remaining_by_block": [
+        [
+          "createdieselgenerators:andesite_girder",
+          1
+        ],
+        [
+          "minecraft:oak_button",
+          1
+        ]
+      ],
+      "dirt_left": 23
+    },
+    {
+      "slice": "y 17..18",
+      "file": "_trial-sea-shelter-y17-18.json",
+      "blocks": 218,
+      "supported": 72,
+      "skipped": [
+        {
+          "block": "createdeco:industrial_iron_catwalk: unknown block in this modpack",
+          "count": 62
+        },
+        {
+          "block": "createdeco:industrial_iron_catwalk_railing: unknown block in this modpack",
+          "count": 43
+        },
+        {
+          "block": "createdeco:industrial_iron_catwalk_stairs: unknown block in this modpack",
+          "count": 1
+        },
+        {
+          "block": "createdeco:industrial_iron_sheet_metal: unknown block in this modpack",
+          "count": 40
+        }
+      ],
+      "skipped_count": 146,
+      "materials": [
+        {
+          "item": "create:andesite_bars",
+          "required": 1
+        },
+        {
+          "item": "create:andesite_casing",
+          "required": 11
+        },
+        {
+          "item": "create:deepslate_pillar",
+          "required": 8
+        },
+        {
+          "item": "create:polished_cut_deepslate",
+          "required": 8
+        },
+        {
+          "item": "create:polished_cut_deepslate_stairs",
+          "required": 4
+        },
+        {
+          "item": "createdieselgenerators:andesite_girder",
+          "required": 8
+        },
+        {
+          "item": "minecraft:acacia_fence",
+          "required": 13
+        },
+        {
+          "item": "minecraft:hanging_roots",
+          "required": 3
+        },
+        {
+          "item": "minecraft:lightning_rod",
+          "required": 2
+        },
+        {
+          "item": "minecraft:oak_button",
+          "required": 1
+        },
+        {
+          "item": "minecraft:waxed_exposed_copper",
+          "required": 1
+        },
+        {
+          "item": "minecraft:waxed_exposed_cut_copper_stairs",
+          "required": 12
+        }
+      ],
+      "state": "failed",
+      "message": "Missing materials; see blueprint_check",
+      "unplaced": [],
+      "seconds": 116,
+      "verified": 50,
+      "remaining": 22,
+      "remaining_by_block": [
+        [
+          "create:polished_cut_deepslate_stairs",
+          1
+        ],
+        [
+          "createdieselgenerators:andesite_girder",
+          8
+        ],
+        [
+          "minecraft:acacia_fence",
+          1
+        ],
+        [
+          "minecraft:hanging_roots",
+          3
+        ],
+        [
+          "minecraft:lightning_rod",
+          2
+        ],
+        [
+          "minecraft:oak_button",
+          1
+        ],
+        [
+          "minecraft:waxed_exposed_copper",
+          1
+        ],
+        [
+          "minecraft:waxed_exposed_cut_copper_stairs",
+          5
+        ]
+      ],
+      "dirt_left": 64
+    }
+  ],
+  "full_check": {
+    "total_supported": 3058,
+    "skipped_count": 483,
+    "skipped": [
+      {
+        "block": "brewinandchewin:heating_cask: unknown block in this modpack",
+        "count": 2
+      },
+      {
+        "block": "create:red_table_cloth: block entity (machine/container; place separately with mc_place)",
+        "count": 2
+      },
+      {
+        "block": "create:steam_whistle_extension: no item places this block",
+        "count": 7
+      },
+      {
+        "block": "createdeco:andesite_catwalk_stairs: unknown block in this modpack",
+        "count": 5
+      },
+      {
+        "block": "createdeco:industrial_iron_catwalk: unknown block in this modpack",
+        "count": 224
+      },
+      {
+        "block": "createdeco:industrial_iron_catwalk_railing: unknown block in this modpack",
+        "count": 140
+      },
+      {
+        "block": "createdeco:industrial_iron_catwalk_stairs: unknown block in this modpack",
+        "count": 30
+      },
+      {
+        "block": "createdeco:industrial_iron_sheet_metal: unknown block in this modpack",
+        "count": 59
+      },
+      {
+        "block": "minecraft:barrier: unbreakable/creative-only block",
+        "count": 9
+      },
+      {
+        "block": "minecraft:cave_vines_plant: no item places this block",
+        "count": 3
+      },
+      {
+        "block": "minecraft:potted_cactus: no item places this block",
+        "count": 1
+      },
+      {
+        "block": "minecraft:potted_crimson_fungus: no item places this block",
+        "count": 1
+      }
+    ],
+    "materials": [
+      {
+        "item": "create:andesite_alloy_block",
+        "required": 8
+      },
+      {
+        "item": "create:andesite_bars",
+        "required": 339
+      },
+      {
+        "item": "create:andesite_casing",
+        "required": 194
+      },
+      {
+        "item": "create:andesite_ladder",
+        "required": 14
+      },
+      {
+        "item": "create:andesite_scaffolding",
+        "required": 26
+      },
+      {
+        "item": "create:cut_granite_brick_slab",
+        "required": 2
+      },
+      {
+        "item": "create:cut_granite_brick_stairs",
+        "required": 5
+      },
+      {
+        "item": "create:cut_granite_brick_wall",
+        "required": 2
+      },
+      {
+        "item": "create:cut_granite_bricks",
+        "required": 13
+      },
+      {
+        "item": "create:deepslate_pillar",
+        "required": 111
+      },
+      {
+        "item": "create:industrial_iron_block",
+        "required": 4
+      },
+      {
+        "item": "create:mechanical_plough",
+        "required": 3
+      },
+      {
+        "item": "create:metal_girder",
+        "required": 8
+      },
+      {
+        "item": "create:ornate_iron_window",
+        "required": 2
+      },
+      {
+        "item": "create:ornate_iron_window_pane",
+        "required": 27
+      },
+      {
+        "item": "create:polished_cut_deepslate",
+        "required": 218
+      },
+      {
+        "item": "create:polished_cut_deepslate_stairs",
+        "required": 16
+      },
+      {
+        "item": "create:polished_cut_deepslate_wall",
+        "required": 271
+      },
+      {
+        "item": "create:weathered_iron_window_pane",
+        "required": 18
+      },
+      {
+        "item": "create:white_sail",
+        "required": 24
+      },
+      {
+        "item": "createdieselgenerators:andesite_girder",
+        "required": 335
+      },
+      {
+        "item": "createdieselgenerators:pumpjack_bearing",
+        "required": 1
+      },
+      {
+        "item": "farmersdelight:canvas_rug",
+        "required": 28
+      },
+      {
+        "item": "farmersdelight:rice_bag",
+        "required": 1
+      },
+      {
+        "item": "farmersdelight:roast_chicken_block",
+        "required": 1
+      },
+      {
+        "item": "farmersdelight:stuffed_pumpkin_block",
+        "required": 1
+      },
+      {
+        "item": "minecraft:acacia_fence",
+        "required": 61
+      },
+      {
+        "item": "minecraft:acacia_fence_gate",
+        "required": 4
+      },
+      {
+        "item": "minecraft:beetroot_seeds",
+        "required": 11
+      },
+      {
+        "item": "minecraft:bookshelf",
+        "required": 3
+      },
+      {
+        "item": "minecraft:brick_stairs",
+        "required": 7
+      },
+      {
+        "item": "minecraft:brick_wall",
+        "required": 4
+      },
+      {
+        "item": "minecraft:cake",
+        "required": 1
+      },
+      {
+        "item": "minecraft:cartography_table",
+        "required": 1
+      },
+      {
+        "item": "minecraft:cauldron",
+        "required": 16
+      },
+      {
+        "item": "minecraft:chain",
+        "required": 50
+      },
+      {
+        "item": "minecraft:composter",
+        "required": 3
+      },
+      {
+        "item": "minecraft:crafting_table",
+        "required": 1
+      },
+      {
+        "item": "minecraft:dead_brain_coral_fan",
+        "required": 1
+      },
+      {
+        "item": "minecraft:dead_bush",
+        "required": 1
+      },
+      {
+        "item": "minecraft:fletching_table",
+        "required": 1
+      },
+      {
+        "item": "minecraft:flower_pot",
+        "required": 4
+      },
+      {
+        "item": "minecraft:glow_berries",
+        "required": 5
+      },
+      {
+        "item": "minecraft:granite_wall",
+        "required": 1
+      },
+      {
+        "item": "minecraft:grindstone",
+        "required": 12
+      },
+      {
+        "item": "minecraft:hanging_roots",
+        "required": 19
+      },
+      {
+        "item": "minecraft:iron_trapdoor",
+        "required": 8
+      },
+      {
+        "item": "minecraft:jungle_planks",
+        "required": 1
+      },
+      {
+        "item": "minecraft:ladder",
+        "required": 8
+      },
+      {
+        "item": "minecraft:lantern",
+        "required": 20
+      },
+      {
+        "item": "minecraft:lever",
+        "required": 20
+      },
+      {
+        "item": "minecraft:lightning_rod",
+        "required": 31
+      },
+      {
+        "item": "minecraft:lodestone",
+        "required": 1
+      },
+      {
+        "item": "minecraft:loom",
+        "required": 3
+      },
+      {
+        "item": "minecraft:mangrove_planks",
+        "required": 4
+      },
+      {
+        "item": "minecraft:mangrove_slab",
+        "required": 1
+      },
+      {
+        "item": "minecraft:mangrove_trapdoor",
+        "required": 6
+      },
+      {
+        "item": "minecraft:mossy_stone_brick_wall",
+        "required": 1
+      },
+      {
+        "item": "minecraft:oak_button",
+        "required": 2
+      },
+      {
+        "item": "minecraft:oak_leaves",
+        "required": 1
+      },
+      {
+        "item": "minecraft:oak_log",
+        "required": 2
+      },
+      {
+        "item": "minecraft:oak_trapdoor",
+        "required": 2
+      },
+      {
+        "item": "minecraft:observer",
+        "required": 1
+      },
+      {
+        "item": "minecraft:oxidized_cut_copper_slab",
+        "required": 11
+      },
+      {
+        "item": "minecraft:oxidized_cut_copper_stairs",
+        "required": 2
+      },
+      {
+        "item": "minecraft:pointed_dripstone",
+        "required": 12
+      },
+      {
+        "item": "minecraft:red_sandstone_wall",
+        "required": 21
+      },
+      {
+        "item": "minecraft:redstone_block",
+        "required": 1
+      },
+      {
+        "item": "minecraft:sea_pickle",
+        "required": 7
+      },
+      {
+        "item": "minecraft:smithing_table",
+        "required": 1
+      },
+      {
+        "item": "minecraft:spruce_fence",
+        "required": 11
+      },
+      {
+        "item": "minecraft:spruce_slab",
+        "required": 1
+      },
+      {
+        "item": "minecraft:spruce_trapdoor",
+        "required": 28
+      },
+      {
+        "item": "minecraft:stone",
+        "required": 2
+      },
+      {
+        "item": "minecraft:stone_button",
+        "required": 1
+      },
+      {
+        "item": "minecraft:stonecutter",
+        "required": 4
+      },
+      {
+        "item": "minecraft:sweet_berries",
+        "required": 14
+      },
+      {
+        "item": "minecraft:vine",
+        "required": 1
+      },
+      {
+        "item": "minecraft:waxed_copper_block",
+        "required": 475
+      },
+      {
+        "item": "minecraft:waxed_cut_copper",
+        "required": 150
+      },
+      {
+        "item": "minecraft:waxed_cut_copper_slab",
+        "required": 7
+      },
+      {
+        "item": "minecraft:waxed_cut_copper_stairs",
+        "required": 111
+      },
+      {
+        "item": "minecraft:waxed_exposed_copper",
+        "required": 72
+      },
+      {
+        "item": "minecraft:waxed_exposed_cut_copper_slab",
+        "required": 6
+      },
+      {
+        "item": "minecraft:waxed_exposed_cut_copper_stairs",
+        "required": 36
+      },
+      {
+        "item": "minecraft:waxed_weathered_copper",
+        "required": 41
+      },
+      {
+        "item": "minecraft:waxed_weathered_cut_copper_stairs",
+        "required": 10
+      },
+      {
+        "item": "minecraft:wheat_seeds",
+        "required": 8
+      },
+      {
+        "item": "supplementaries:planter",
+        "required": 35
+      }
+    ]
+  }
+}

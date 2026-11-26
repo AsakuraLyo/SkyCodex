@@ -1,0 +1,880 @@
+﻿{
+  "items": [
+    {
+      "item": "minecraft:waxed_copper_block",
+      "count": 475
+    },
+    {
+      "item": "create:andesite_bars",
+      "count": 339
+    },
+    {
+      "item": "createdieselgenerators:andesite_girder",
+      "count": 335
+    },
+    {
+      "item": "create:polished_cut_deepslate_wall",
+      "count": 271
+    },
+    {
+      "item": "createdeco:industrial_iron_catwalk",
+      "count": 224
+    },
+    {
+      "item": "create:polished_cut_deepslate",
+      "count": 218
+    },
+    {
+      "item": "create:andesite_casing",
+      "count": 194
+    },
+    {
+      "item": "minecraft:waxed_cut_copper",
+      "count": 150
+    },
+    {
+      "item": "createdeco:industrial_iron_catwalk_railing",
+      "count": 140
+    },
+    {
+      "item": "create:deepslate_pillar",
+      "count": 111
+    },
+    {
+      "item": "minecraft:waxed_cut_copper_stairs",
+      "count": 111
+    },
+    {
+      "item": "create_colored:gray_fluid_pipe",
+      "count": 99
+    },
+    {
+      "item": "create_colored:light_gray_fluid_pipe",
+      "count": 81
+    },
+    {
+      "item": "create:fluid_tank",
+      "count": 81
+    },
+    {
+      "item": "simulated:iron_handle",
+      "count": 75
+    },
+    {
+      "item": "minecraft:waxed_exposed_copper",
+      "count": 72
+    },
+    {
+      "item": "create:basin",
+      "count": 64
+    },
+    {
+      "item": "minecraft:acacia_fence",
+      "count": 61
+    },
+    {
+      "item": "createdeco:industrial_iron_sheet_metal",
+      "count": 59
+    },
+    {
+      "item": "minecraft:barrel",
+      "count": 55
+    },
+    {
+      "item": "minecraft:chain",
+      "count": 50
+    },
+    {
+      "item": "copycats:copycat_stairs",
+      "count": 47
+    },
+    {
+      "item": "create:copycat_step",
+      "count": 43
+    },
+    {
+      "item": "minecraft:waxed_weathered_copper",
+      "count": 41
+    },
+    {
+      "item": "minecraft:waxed_exposed_cut_copper_stairs",
+      "count": 36
+    },
+    {
+      "item": "supplementaries:planter",
+      "count": 35
+    },
+    {
+      "item": "minecraft:campfire",
+      "count": 34
+    },
+    {
+      "item": "minecraft:lightning_rod",
+      "count": 31
+    },
+    {
+      "item": "createdeco:industrial_iron_catwalk_stairs",
+      "count": 30
+    },
+    {
+      "item": "create:depot",
+      "count": 29
+    },
+    {
+      "item": "minecraft:spruce_trapdoor",
+      "count": 28
+    },
+    {
+      "item": "farmersdelight:canvas_rug",
+      "count": 28
+    },
+    {
+      "item": "create:ornate_iron_window_pane",
+      "count": 27
+    },
+    {
+      "item": "create:fluid_pipe",
+      "count": 27
+    },
+    {
+      "item": "create:andesite_scaffolding",
+      "count": 26
+    },
+    {
+      "item": "create:copycat_panel",
+      "count": 26
+    },
+    {
+      "item": "create:white_sail",
+      "count": 24
+    },
+    {
+      "item": "minecraft:sea_pickle",
+      "count": 23
+    },
+    {
+      "item": "create:cogwheel",
+      "count": 23
+    },
+    {
+      "item": "create:gearbox",
+      "count": 22
+    },
+    {
+      "item": "copycats:copycat_vertical_stairs",
+      "count": 22
+    },
+    {
+      "item": "minecraft:red_sandstone_wall",
+      "count": 21
+    },
+    {
+      "item": "create_colored:gray_fluid_tank",
+      "count": 21
+    },
+    {
+      "item": "minecraft:lantern",
+      "count": 20
+    },
+    {
+      "item": "minecraft:lever",
+      "count": 20
+    },
+    {
+      "item": "minecraft:hanging_roots",
+      "count": 19
+    },
+    {
+      "item": "create:weathered_iron_window_pane",
+      "count": 18
+    },
+    {
+      "item": "create:mechanical_pump",
+      "count": 18
+    },
+    {
+      "item": "create:copper_valve_handle",
+      "count": 18
+    },
+    {
+      "item": "create:encased_chain_drive",
+      "count": 17
+    },
+    {
+      "item": "create:polished_cut_deepslate_stairs",
+      "count": 16
+    },
+    {
+      "item": "minecraft:cauldron",
+      "count": 16
+    },
+    {
+      "item": "create_colored:light_gray_fluid_tank",
+      "count": 15
+    },
+    {
+      "item": "simulated:auger_cog",
+      "count": 15
+    },
+    {
+      "item": "create:steam_engine",
+      "count": 15
+    },
+    {
+      "item": "create:andesite_ladder",
+      "count": 14
+    },
+    {
+      "item": "minecraft:sweet_berries",
+      "count": 14
+    },
+    {
+      "item": "create:redstone_link",
+      "count": 14
+    },
+    {
+      "item": "create:portable_fluid_interface",
+      "count": 14
+    },
+    {
+      "item": "create:cut_granite_bricks",
+      "count": 13
+    },
+    {
+      "item": "create:andesite_encased_cogwheel",
+      "count": 13
+    },
+    {
+      "item": "minecraft:grindstone",
+      "count": 12
+    },
+    {
+      "item": "minecraft:pointed_dripstone",
+      "count": 12
+    },
+    {
+      "item": "minecraft:chest",
+      "count": 12
+    },
+    {
+      "item": "create:stock_link",
+      "count": 12
+    },
+    {
+      "item": "bits_n_bobs:nixie_board",
+      "count": 12
+    },
+    {
+      "item": "create:shaft",
+      "count": 12
+    },
+    {
+      "item": "create:powered_shaft",
+      "count": 12
+    },
+    {
+      "item": "minecraft:spruce_fence",
+      "count": 11
+    },
+    {
+      "item": "minecraft:oxidized_cut_copper_slab",
+      "count": 11
+    },
+    {
+      "item": "minecraft:beetroot_seeds",
+      "count": 11
+    },
+    {
+      "item": "create:blaze_burner",
+      "count": 11
+    },
+    {
+      "item": "create:steam_whistle",
+      "count": 11
+    },
+    {
+      "item": "minecraft:waxed_weathered_cut_copper_stairs",
+      "count": 10
+    },
+    {
+      "item": "minecraft:blast_furnace",
+      "count": 10
+    },
+    {
+      "item": "create:item_drain",
+      "count": 10
+    },
+    {
+      "item": "create:item_vault",
+      "count": 10
+    },
+    {
+      "item": "create:fluid_valve",
+      "count": 9
+    },
+    {
+      "item": "create:portable_storage_interface",
+      "count": 9
+    },
+    {
+      "item": "create:andesite_door",
+      "count": 9
+    },
+    {
+      "item": "brewinandchewin:keg",
+      "count": 9
+    },
+    {
+      "item": "create:chute",
+      "count": 9
+    },
+    {
+      "item": "farmersdelight:spruce_cabinet",
+      "count": 9
+    },
+    {
+      "item": "create:andesite_alloy_block",
+      "count": 8
+    },
+    {
+      "item": "minecraft:glow_berries",
+      "count": 8
+    },
+    {
+      "item": "minecraft:ladder",
+      "count": 8
+    },
+    {
+      "item": "minecraft:wheat_seeds",
+      "count": 8
+    },
+    {
+      "item": "minecraft:iron_trapdoor",
+      "count": 8
+    },
+    {
+      "item": "create:metal_girder",
+      "count": 8
+    },
+    {
+      "item": "minecraft:smoker",
+      "count": 8
+    },
+    {
+      "item": "railways:smokestack_diesel",
+      "count": 8
+    },
+    {
+      "item": "minecraft:red_bed",
+      "count": 8
+    },
+    {
+      "item": "minecraft:brick_stairs",
+      "count": 7
+    },
+    {
+      "item": "create:steam_whistle_extension",
+      "count": 7
+    },
+    {
+      "item": "minecraft:waxed_cut_copper_slab",
+      "count": 7
+    },
+    {
+      "item": "simulated:torsion_spring",
+      "count": 7
+    },
+    {
+      "item": "minecraft:waxed_exposed_cut_copper_slab",
+      "count": 6
+    },
+    {
+      "item": "minecraft:flower_pot",
+      "count": 6
+    },
+    {
+      "item": "minecraft:mangrove_trapdoor",
+      "count": 6
+    },
+    {
+      "item": "simulated:altitude_sensor",
+      "count": 6
+    },
+    {
+      "item": "create:clipboard",
+      "count": 6
+    },
+    {
+      "item": "minecraft:decorated_pot",
+      "count": 6
+    },
+    {
+      "item": "create:cuckoo_clock",
+      "count": 6
+    },
+    {
+      "item": "create:cut_granite_brick_stairs",
+      "count": 5
+    },
+    {
+      "item": "createdeco:andesite_catwalk_stairs",
+      "count": 5
+    },
+    {
+      "item": "create:andesite_funnel",
+      "count": 5
+    },
+    {
+      "item": "create:large_cogwheel",
+      "count": 5
+    },
+    {
+      "item": "create:speedometer",
+      "count": 5
+    },
+    {
+      "item": "create:industrial_iron_block",
+      "count": 4
+    },
+    {
+      "item": "minecraft:mangrove_planks",
+      "count": 4
+    },
+    {
+      "item": "minecraft:brick_wall",
+      "count": 4
+    },
+    {
+      "item": "minecraft:stonecutter",
+      "count": 4
+    },
+    {
+      "item": "minecraft:acacia_fence_gate",
+      "count": 4
+    },
+    {
+      "item": "create:stock_ticker",
+      "count": 4
+    },
+    {
+      "item": "create:encased_fan",
+      "count": 4
+    },
+    {
+      "item": "minecraft:loom",
+      "count": 3
+    },
+    {
+      "item": "minecraft:bookshelf",
+      "count": 3
+    },
+    {
+      "item": "create:mechanical_plough",
+      "count": 3
+    },
+    {
+      "item": "minecraft:composter",
+      "count": 3
+    },
+    {
+      "item": "create:contraption_controls",
+      "count": 3
+    },
+    {
+      "item": "minecraft:hopper",
+      "count": 3
+    },
+    {
+      "item": "create:mechanical_press",
+      "count": 3
+    },
+    {
+      "item": "create:spout",
+      "count": 3
+    },
+    {
+      "item": "create:deployer",
+      "count": 3
+    },
+    {
+      "item": "create:redstone_requester",
+      "count": 3
+    },
+    {
+      "item": "farmersdelight:stove",
+      "count": 3
+    },
+    {
+      "item": "create:nixie_tube",
+      "count": 3
+    },
+    {
+      "item": "chimes:glass_bells",
+      "count": 3
+    },
+    {
+      "item": "brewinandchewin:heating_cask",
+      "count": 2
+    },
+    {
+      "item": "create:ornate_iron_window",
+      "count": 2
+    },
+    {
+      "item": "minecraft:stone",
+      "count": 2
+    },
+    {
+      "item": "minecraft:oak_log",
+      "count": 2
+    },
+    {
+      "item": "minecraft:oak_button",
+      "count": 2
+    },
+    {
+      "item": "create:cut_granite_brick_wall",
+      "count": 2
+    },
+    {
+      "item": "create:red_table_cloth",
+      "count": 2
+    },
+    {
+      "item": "minecraft:oxidized_cut_copper_stairs",
+      "count": 2
+    },
+    {
+      "item": "create:cut_granite_brick_slab",
+      "count": 2
+    },
+    {
+      "item": "minecraft:oak_trapdoor",
+      "count": 2
+    },
+    {
+      "item": "create:elevator_contact",
+      "count": 2
+    },
+    {
+      "item": "minecraft:crimson_sign",
+      "count": 2
+    },
+    {
+      "item": "simulated:auger_shaft",
+      "count": 2
+    },
+    {
+      "item": "create:crushing_wheel",
+      "count": 2
+    },
+    {
+      "item": "create:item_hatch",
+      "count": 2
+    },
+    {
+      "item": "minecraft:brewing_stand",
+      "count": 2
+    },
+    {
+      "item": "create:flywheel",
+      "count": 2
+    },
+    {
+      "item": "minecraft:jukebox",
+      "count": 2
+    },
+    {
+      "item": "create:red_postbox",
+      "count": 2
+    },
+    {
+      "item": "create:desk_bell",
+      "count": 2
+    },
+    {
+      "item": "create:blue_postbox",
+      "count": 2
+    },
+    {
+      "item": "farmersdelight:skillet",
+      "count": 2
+    },
+    {
+      "item": "simulated:rope_connector",
+      "count": 2
+    },
+    {
+      "item": "create:light_gray_postbox",
+      "count": 2
+    },
+    {
+      "item": "create:mechanical_arm",
+      "count": 2
+    },
+    {
+      "item": "create:display_link",
+      "count": 2
+    },
+    {
+      "item": "create:placard",
+      "count": 2
+    },
+    {
+      "item": "create:adjustable_chain_gearshift",
+      "count": 2
+    },
+    {
+      "item": "chimes:bamboo_chimes",
+      "count": 2
+    },
+    {
+      "item": "create:windmill_bearing",
+      "count": 2
+    },
+    {
+      "item": "minecraft:fletching_table",
+      "count": 1
+    },
+    {
+      "item": "minecraft:smithing_table",
+      "count": 1
+    },
+    {
+      "item": "minecraft:cartography_table",
+      "count": 1
+    },
+    {
+      "item": "minecraft:oak_leaves",
+      "count": 1
+    },
+    {
+      "item": "minecraft:lodestone",
+      "count": 1
+    },
+    {
+      "item": "minecraft:crafting_table",
+      "count": 1
+    },
+    {
+      "item": "farmersdelight:rice_bag",
+      "count": 1
+    },
+    {
+      "item": "minecraft:observer",
+      "count": 1
+    },
+    {
+      "item": "minecraft:redstone_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:jungle_planks",
+      "count": 1
+    },
+    {
+      "item": "createdieselgenerators:pumpjack_bearing_b",
+      "count": 1
+    },
+    {
+      "item": "minecraft:spruce_slab",
+      "count": 1
+    },
+    {
+      "item": "minecraft:vine",
+      "count": 1
+    },
+    {
+      "item": "minecraft:dead_brain_coral_fan",
+      "count": 1
+    },
+    {
+      "item": "minecraft:stone_button",
+      "count": 1
+    },
+    {
+      "item": "minecraft:cactus",
+      "count": 1
+    },
+    {
+      "item": "minecraft:crimson_fungus",
+      "count": 1
+    },
+    {
+      "item": "minecraft:dead_bush",
+      "count": 1
+    },
+    {
+      "item": "farmersdelight:stuffed_pumpkin_block",
+      "count": 1
+    },
+    {
+      "item": "farmersdelight:roast_chicken_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:cake",
+      "count": 1
+    },
+    {
+      "item": "minecraft:granite_wall",
+      "count": 1
+    },
+    {
+      "item": "minecraft:mossy_stone_brick_wall",
+      "count": 1
+    },
+    {
+      "item": "createdieselgenerators:pumpjack_head",
+      "count": 1
+    },
+    {
+      "item": "minecraft:mangrove_slab",
+      "count": 1
+    },
+    {
+      "item": "create:redstone_contact",
+      "count": 1
+    },
+    {
+      "item": "create:mechanical_saw",
+      "count": 1
+    },
+    {
+      "item": "create:brass_belt_funnel",
+      "count": 1
+    },
+    {
+      "item": "create:andesite_belt_funnel",
+      "count": 1
+    },
+    {
+      "item": "create:rotation_speed_controller",
+      "count": 1
+    },
+    {
+      "item": "create:crushing_wheel_controller",
+      "count": 1
+    },
+    {
+      "item": "create:andesite_encased_large_cogwheel",
+      "count": 1
+    },
+    {
+      "item": "create:packager",
+      "count": 1
+    },
+    {
+      "item": "create:mechanical_mixer",
+      "count": 1
+    },
+    {
+      "item": "minecraft:soul_campfire",
+      "count": 1
+    },
+    {
+      "item": "create:elevator_pulley",
+      "count": 1
+    },
+    {
+      "item": "supplementaries:globe",
+      "count": 1
+    },
+    {
+      "item": "supplementaries:urn",
+      "count": 1
+    },
+    {
+      "item": "create:smart_fluid_pipe",
+      "count": 1
+    },
+    {
+      "item": "supplementaries:jar",
+      "count": 1
+    },
+    {
+      "item": "farmersdelight:cooking_pot",
+      "count": 1
+    },
+    {
+      "item": "create:brass_table_cloth",
+      "count": 1
+    },
+    {
+      "item": "minecraft:bell",
+      "count": 1
+    },
+    {
+      "item": "create:white_postbox",
+      "count": 1
+    },
+    {
+      "item": "create:creative_crate",
+      "count": 1
+    },
+    {
+      "item": "create:brown_toolbox",
+      "count": 1
+    },
+    {
+      "item": "create:hand_crank",
+      "count": 1
+    },
+    {
+      "item": "create:andesite_encased_shaft",
+      "count": 1
+    },
+    {
+      "item": "petrolsparts:planetary_gearset",
+      "count": 1
+    },
+    {
+      "item": "create:clutch",
+      "count": 1
+    },
+    {
+      "item": "create:brass_funnel",
+      "count": 1
+    },
+    {
+      "item": "createdieselgenerators:pumpjack_crank",
+      "count": 1
+    },
+    {
+      "item": "aeronautics:adjustable_burner",
+      "count": 1
+    },
+    {
+      "item": "createdieselgenerators:pumpjack_bearing",
+      "count": 1
+    }
+  ],
+  "total": 4779,
+  "not_printable": [
+    {
+      "item": "minecraft:water",
+      "count": 2964
+    },
+    {
+      "item": "water (waterlogging)",
+      "count": 127
+    },
+    {
+      "item": "minecraft:lava",
+      "count": 15
+    },
+    {
+      "item": "minecraft:barrier (creative only)",
+      "count": 9
+    },
+    {
+      "item": "minecraft:lava_cauldron contents",
+      "count": 1
+    },
+    {
+      "item": "minecraft:water_cauldron contents",
+      "count": 1
+    }
+  ],
+  "note": "Approximate list for a Create schematicannon (it computes the exact one itself). Verify ids with mc_items: unknown ids are mods this pack does not have. Contents of chests/machines are not included."
+}

@@ -1,0 +1,12 @@
+# Build output and local test clients (rebuilt by gradlew / not needed in git)
+/build/
+/dist/
+/.gradle/
+/run/
+/run-modpack/
+*.log
+*.err
+*.orig
+
+# Never commit the local bridge token
+**/skycodex-connection.json

@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-25T00:15:24.985Z",
+  "runDir": "run-modpack",
+  "passed": 1,
+  "total": 3,
+  "results": [
+    {
+      "name": "自动反击：走路途中被僵尸打，反击后继续任务",
+      "ok": true,
+      "detail": "defense {\"active\":false,\"kills\":1,\"engagements\":1,\"hits\":16,\"last\":\"killed minecraft:zombie\",\"weapon\":\"minecraft:diamond_sword (+6.0 damage)\"}; move: Reached target"
+    },
+    {
+      "name": "自动反击：打得中会飞的女仆妖精",
+      "ok": false,
+      "error": "fairy not killed: {\"active\":true,\"target\":\"touhou_little_maid:fairy\",\"distance\":5,\"kills\":1,\"engagements\":8,\"hits\":20,\"last\":\"fighting touhou_little_maid:fairy\",\"weapon\":\"minecraft:diamond_sword (+6.0 damage)\"}"
+    },
+    {
+      "name": "mc_sleep 晚上找床睡到天亮",
+      "ok": false,
+      "error": "sleep: Woke up but it is still night (other players were awake?) (bed 151, 623, -427)"
+    }
+  ]
+}
